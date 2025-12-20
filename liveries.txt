@@ -1,0 +1,4 @@
+iniBuilds,800,United Airlines – EVO Blue,https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
+Threshold,800,United Airlines N24211,https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
+iniBuilds,700,WestJet,https://forum.inibuilds.com/files/file/2483-westjet-levelup-737-700/
+Threshold,900,Delta Airlines,https://forum.thresholdx.net/files/file/1405-739-delta/
