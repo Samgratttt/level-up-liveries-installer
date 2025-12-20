@@ -1,18 +1,39 @@
-iniBuilds,800,United Airlines – EVO Blue,https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
-Threshold,800,United Airlines N24211,https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
-iniBuilds,700,WestJet,https://forum.inibuilds.com/files/file/2483-westjet-levelup-737-700/
-Threshold,900,Delta Airlines,https://forum.thresholdx.net/files/file/1405-739-delta/
-iniBuilds,800,Amazon Prime Air Pack,https://forum.inibuilds.com/files/file/2975-amazon-prime-air-levelup-737-800-pack/  
-iniBuilds,800,Japan Airlines Pack,https://forum.inibuilds.com/files/file/2627-japan-airlines-pack-levelup-737-800/  
-iniBuilds,800,GOL - PACK 737-800,https://forum.inibuilds.com/files/file/2675-gol-pack-levelup-737-800/  
-iniBuilds,700,GOL - PACK 737-700,https://forum.inibuilds.com/files/file/2682-gol-pack-levelup-737-700/  
-iniBuilds,800,T'Way Pack 737-800,https://forum.inibuilds.com/files/file/2710-tway-pack-levelup-737-800/  
-iniBuilds,900,Delta 737-900ER Pack,https://forum.inibuilds.com/files/file/2647-delta-levelup-737-900er-pack/  
-iniBuilds,800,United 737-800 Evo-Blue Pack,https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/  
-Threshold,700,KLM 737-700 PH-BGM,https://forum.thresholdx.net/files/file/1294-levelup-737-700-klm-ph-bgm/  
-Threshold,800,KLM 737-800 PH-BGA,https://forum.thresholdx.net/files/file/1292-levelup-737-800-klm-ph-bga/  
-Threshold,800,Delta 737-800 Airlines 3-Pack,https://forum.thresholdx.net/files/file/1460-levelup-737-800-delta-air-lines-3-pack/  
-Threshold,600,Janet Airlines 737-600 Fleet Pack,https://forum.thresholdx.net/files/file/1425-janet-airlines-fleet-pack-for-levelup-737-600/  
-Threshold,800,American Airlines Mini Fleet Pack,https://forum.thresholdx.net/files/file/1374-american-airlines-mini-fleet-pack-for-levelup-737/  
+United Airlines N24211|Threshold|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
+United Evo Blue Pack|Inibuilds|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
+United Airlines 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1241-united-737-700/
+United Airlines 737-900ER|Inibuilds|900|https://forum.inibuilds.com/files/file/2791-united-levelup-737-900er/
 
+American Airlines 737-800|Threshold|800|https://forum.thresholdx.net/files/file/1298-american-airlines-737-800/
+American Airlines 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1259-american-airlines-737-700/
+American Airlines 737-900ER|Inibuilds|900|https://forum.inibuilds.com/files/file/2802-american-levelup-737-900er/
 
+Delta Airlines 737-900ER|Threshold|900|https://forum.thresholdx.net/files/file/1330-delta-air-lines-737-900er/
+Delta Airlines 737-800|Inibuilds|800|https://forum.inibuilds.com/files/file/2701-delta-levelup-737-800/
+
+Southwest Airlines Canyon Blue|Threshold|800|https://forum.thresholdx.net/files/file/1287-southwest-airlines-737-800/
+Southwest Heart Livery|Inibuilds|800|https://forum.inibuilds.com/files/file/2719-southwest-heart-levelup-737-800/
+Southwest Airlines 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1219-southwest-airlines-737-700/
+
+WestJet 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1235-westjet-737-700/
+WestJet 737-800|Inibuilds|800|https://forum.inibuilds.com/files/file/2688-westjet-levelup-737-800/
+
+Air Canada 737-800|Threshold|800|https://forum.thresholdx.net/files/file/1304-air-canada-737-800/
+Air Canada 737-900ER|Inibuilds|900|https://forum.inibuilds.com/files/file/2810-air-canada-levelup-737-900er/
+
+Alaska Airlines 737-900ER|Threshold|900|https://forum.thresholdx.net/files/file/1321-alaska-airlines-737-900er/
+Alaska Airlines 737-800|Inibuilds|800|https://forum.inibuilds.com/files/file/2699-alaska-levelup-737-800/
+
+JetBlue Airways 737-900ER|Threshold|900|https://forum.thresholdx.net/files/file/1342-jetblue-airways-737-900er/
+JetBlue Airways 737-800|Inibuilds|800|https://forum.inibuilds.com/files/file/2725-jetblue-levelup-737-800/
+
+Ryanair 737-800|Threshold|800|https://forum.thresholdx.net/files/file/1276-ryanair-737-800/
+Ryanair Malta Air|Inibuilds|800|https://forum.inibuilds.com/files/file/2731-ryanair-malta-levelup-737-800/
+
+KLM Royal Dutch Airlines|Threshold|800|https://forum.thresholdx.net/files/file/1264-klm-royal-dutch-airlines-737-800/
+KLM Royal Dutch Airlines|Inibuilds|800|https://forum.inibuilds.com/files/file/2742-klm-levelup-737-800/
+
+Lufthansa 737-800|Threshold|800|https://forum.thresholdx.net/files/file/1281-lufthansa-737-800/
+Lufthansa 737-700|Inibuilds|700|https://forum.inibuilds.com/files/file/2756-lufthansa-levelup-737-700/
+
+Norwegian Air Shuttle|Threshold|800|https://forum.thresholdx.net/files/file/1292-norwegian-air-shuttle-737-800/
+Norwegian Air Shuttle|Inibuilds|800|https://forum.inibuilds.com/files/file/2764-norwegian-levelup-737-800/
