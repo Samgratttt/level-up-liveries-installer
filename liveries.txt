@@ -9,10 +9,10 @@ iniBuilds,700,GOL - PACK 737-700,https://forum.inibuilds.com/files/file/2682-gol
 iniBuilds,800,T'Way Pack 737-800,https://forum.inibuilds.com/files/file/2710-tway-pack-levelup-737-800/  
 iniBuilds,900,Delta 737-900ER Pack,https://forum.inibuilds.com/files/file/2647-delta-levelup-737-900er-pack/  
 iniBuilds,800,United 737-800 Evo-Blue Pack,https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/  
-
 Threshold,700,KLM 737-700 PH-BGM,https://forum.thresholdx.net/files/file/1294-levelup-737-700-klm-ph-bgm/  
 Threshold,800,KLM 737-800 PH-BGA,https://forum.thresholdx.net/files/file/1292-levelup-737-800-klm-ph-bga/  
 Threshold,800,Delta 737-800 Airlines 3-Pack,https://forum.thresholdx.net/files/file/1460-levelup-737-800-delta-air-lines-3-pack/  
 Threshold,600,Janet Airlines 737-600 Fleet Pack,https://forum.thresholdx.net/files/file/1425-janet-airlines-fleet-pack-for-levelup-737-600/  
 Threshold,800,American Airlines Mini Fleet Pack,https://forum.thresholdx.net/files/file/1374-american-airlines-mini-fleet-pack-for-levelup-737/  
+
 
