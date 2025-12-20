@@ -1,5 +1,5 @@
 United Airlines N24211|Threshold|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
-United Evo Blue Pack|Inibuilds|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
+United Evo Blue|Inibuilds|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
 United Airlines 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1241-united-737-700/
 United Airlines 737-900ER|Inibuilds|900|https://forum.inibuilds.com/files/file/2791-united-levelup-737-900er/
 
@@ -7,11 +7,11 @@ American Airlines 737-800|Threshold|800|https://forum.thresholdx.net/files/file/
 American Airlines 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1259-american-airlines-737-700/
 American Airlines 737-900ER|Inibuilds|900|https://forum.inibuilds.com/files/file/2802-american-levelup-737-900er/
 
-Delta Airlines 737-900ER|Threshold|900|https://forum.thresholdx.net/files/file/1330-delta-air-lines-737-900er/
-Delta Airlines 737-800|Inibuilds|800|https://forum.inibuilds.com/files/file/2701-delta-levelup-737-800/
+Delta Air Lines 737-900ER|Threshold|900|https://forum.thresholdx.net/files/file/1330-delta-air-lines-737-900er/
+Delta Air Lines 737-800|Inibuilds|800|https://forum.inibuilds.com/files/file/2701-delta-levelup-737-800/
 
 Southwest Airlines Canyon Blue|Threshold|800|https://forum.thresholdx.net/files/file/1287-southwest-airlines-737-800/
-Southwest Heart Livery|Inibuilds|800|https://forum.inibuilds.com/files/file/2719-southwest-heart-levelup-737-800/
+Southwest Airlines Heart|Inibuilds|800|https://forum.inibuilds.com/files/file/2719-southwest-heart-levelup-737-800/
 Southwest Airlines 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1219-southwest-airlines-737-700/
 
 WestJet 737-700|Threshold|700|https://forum.thresholdx.net/files/file/1235-westjet-737-700/
@@ -34,6 +34,3 @@ KLM Royal Dutch Airlines|Inibuilds|800|https://forum.inibuilds.com/files/file/27
 
 Lufthansa 737-800|Threshold|800|https://forum.thresholdx.net/files/file/1281-lufthansa-737-800/
 Lufthansa 737-700|Inibuilds|700|https://forum.inibuilds.com/files/file/2756-lufthansa-levelup-737-700/
-
-Norwegian Air Shuttle|Threshold|800|https://forum.thresholdx.net/files/file/1292-norwegian-air-shuttle-737-800/
-Norwegian Air Shuttle|Inibuilds|800|https://forum.inibuilds.com/files/file/2764-norwegian-levelup-737-800/
