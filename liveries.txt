@@ -1,5 +1,4 @@
-THR-0001|Threshold|United|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
-THR-0002|Threshold|Anadolujet|800|https://forum.thresholdx.net/files/file/1622-anadolujet-tc-jzr-boeing-737-800-levelup/
-INI-0003|iniBuilds|Ryanair|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
-INI-0004|iniBuilds|Aegean|700|https://forum.inibuilds.com/files/file/2776-aegean-airlines-boeing-737-700-levelup/
-THR-0005|Threshold|WestJet|700|https://forum.thresholdx.net/files/file/1554-westjet-boeing-737-700-levelup/
+United Airlines Evo Blue | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
+Alaska Airlines Salmon People | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3866-alaska-airlines-salmon-people-n559as-for-levelup-737-800/
+Lion Air Bookcabin | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3986-lion-air-bookcabin-cs-pk-ljg-for-levelup-737-900er/
+...
