@@ -4,6 +4,7 @@ Alaska Airlines Salmon People | 737-800 | Threshold | https://forum.thresholdx.n
 Lion Air Bookcabin | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3986-lion-air-bookcabin-cs-pk-ljg-for-levelup-737-900er/
 
 # NEW: ThresholdX 737-700 (25+)
+
 SpiceJet Fleet Pack (VT-SLA, VT-SLB, VT-SLP) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1734-spicejet-737-700-fleet-pack-levelup-737ng/
 Malév Hungarian Airlines Fleet Pack (HA-LOA) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1480-malev-hungarian-airlines-levelup-b737-700-ha-loa/
 Virgin Australia Fleet Pack (Updated) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3872-virgin-australia-737-700-fleet-pack-2024-update/
@@ -16,8 +17,8 @@ Southwest Michigan One Fictional (N725SW) | 737-700 | Threshold | https://forum.
 Papua Virtual Airlines (PK-PVD) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2462-papua-pk-pvd-70ng/
 Manta Air Lines House Livery | 737-700 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
 WestJet 3-Pack (C-GWJO, C-GWSO, C-GWBF) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3900-levelup-westjet-737-700-3-pack/
-Jettime Pack (OY-JTP, OY-JZJ, OY-JZN) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1524-jettime-levelup-livery-pack/
-Luxair Fleet Pack (-700 Regs) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1733-luxair-fleet-pack-levelup-737ng/
+Jettime Pack (OY-JTP, OY-JZJ, OY-JZN) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1524-jettime-levelup-livery-pack/
+Luxair Fleet Pack (-700 Regs) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1733-luxair-fleet-pack-levelup-737ng/
 Papua Virtual Airlines | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2462-papua-pk-pvd-70ng/
 Royal Air Force No.8 Squadron | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3999-levelup-737-700-raf-boeing-e-7-wedgetail-wt001/
 Northwest Airlines (NWA) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3957-northwest-airlines-nwa-levelup-737-700/
@@ -45,29 +46,30 @@ Turkmenistan | 737-700 | Threshold | https://forum.thresholdx.net/files/file/214
 Alrosa | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2146-alrosa-ra-73268-levelup-b737-700/
 
 # NEW: ThresholdX 737-800 (25+)
-AeroItalia Fleet Pack (9H-AHA, 9H-AHB etc.) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/2059-aeroitalia-fleet-pack-levelup-737-800/
-American Airlines Mini Fleet Pack (N901NN, N902NN etc.) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1374-american-airlines-mini-fleet-pack-for-levelup-737/
-Neos Air Fleet Pack (EI-NEO, EI-NEP etc.) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1450-neos-air-fleet-pack-levelup-737-800/
-iAero Airways Pack (N276EA, N917XA) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/2346-iaero-airways-levelup-737-800-pack/ (from similar; pack mentioned)
-Delta Air Lines 3-Pack (N801DZ, N802DZ, N803DZ) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1460-levelup-737-800-delta-air-lines-3-pack/
-WestJet 3-Pack (C-FBWI, C-GKWA, C-GWSV) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/3899-levelup-westjet-737-800-3-pack/
-Corendon Detur Special (TC-TJJ) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1525-corendon-detur-livery-tc-tjj-boeing-737-800ng-levelup/
-Aerolíneas Argentinas (LV-GGQ) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1475-aerolineas-argentinas-livery-lv-ggq-737-800-levelup/
-Caribbean Airlines (9Y-TAB New Colors) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1493-levelup-737-800ng-caribbean-airlines-9y-tab-new-livery/
-Luxair Fleet Pack (-800 Regs) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1733-luxair-fleet-pack-levelup-737ng/
-Jettime Pack (OY-JZJ, OY-JZN) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1524-jettime-levelup-livery-pack/
-Malév Hungarian Airlines (HA-LOM) | LU-800 | Threshold | https://forum.thresholdx.net/files/category/123-737-800/ (mentioned)
-S7 Cargo Pack (VQ-BKW BCF) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1563-s7-cargo-pack-levelup-737-800-bcf/
-FSX Legacy Pack (Orbit, Pacifica, World Travel) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/1862-fsx-legacy-airlines-pack-for-levelup-737-800/
-Air Master Cargo Pack (BCF/SF) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/4001-air-master-livery-pack-levelup-737-800f/
-Shandong Airlines Cargo BCF (B-5111) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/3965-shandong-airlines-b-5111-levelup-737-85n-bcf/
-Garuda Indonesia Tahilalats Special (PK-GUG) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/3910-garuda-indonesia-tahilalats-sky-explorer-cs-pk-gug-for-levelup-737-800zibo-331/
-Garuda Indonesia Aku Cinta Indonesia (PK-GUF) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/3909-garuda-indonesia-aku-cinta-indonesia-cs-pk-guf-for-levelup-737-800zibo-331/
-Fly4 (EI-FFB) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/4056-fly4-ei-fbb-spicejet-levelup-737-8k5/
-Oneclick (4L-TWO) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/4055-oneclick-4l-two-levelup-737-81b/
-ETF Airways (9A-ABC) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/4045-levelup-737-800-etf-airways-9a-abc/
-SmartWings (OK-TVG) | LU-800 | Threshold | https://forum.thresholdx.net/files/file/4022-smartwings-ok-tvg-levelup-737-8q8/
-Manta Air Lines House Livery | LU-800 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
+
+AeroItalia Fleet Pack (9H-AHA, 9H-AHB etc.) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2059-aeroitalia-fleet-pack-levelup-737-800/
+American Airlines Mini Fleet Pack (N901NN, N902NN etc.) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1374-american-airlines-mini-fleet-pack-for-levelup-737/
+Neos Air Fleet Pack (EI-NEO, EI-NEP etc.) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1450-neos-air-fleet-pack-levelup-737-800/
+iAero Airways Pack (N276EA, N917XA) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2346-iaero-airways-levelup-737-800-pack/ (from similar; pack mentioned)
+Delta Air Lines 3-Pack (N801DZ, N802DZ, N803DZ) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1460-levelup-737-800-delta-air-lines-3-pack/
+WestJet 3-Pack (C-FBWI, C-GKWA, C-GWSV) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3899-levelup-westjet-737-800-3-pack/
+Corendon Detur Special (TC-TJJ) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1525-corendon-detur-livery-tc-tjj-boeing-737-800ng-levelup/
+Aerolíneas Argentinas (LV-GGQ) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1475-aerolineas-argentinas-livery-lv-ggq-737-800-levelup/
+Caribbean Airlines (9Y-TAB New Colors) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1493-levelup-737-800ng-caribbean-airlines-9y-tab-new-livery/
+Luxair Fleet Pack (-800 Regs) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1733-luxair-fleet-pack-levelup-737ng/
+Jettime Pack (OY-JZJ, OY-JZN) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1524-jettime-levelup-livery-pack/
+Malév Hungarian Airlines (HA-LOM) | 737-800 | Threshold | https://forum.thresholdx.net/files/category/123-737-800/ (mentioned)
+S7 Cargo Pack (VQ-BKW BCF) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1563-s7-cargo-pack-levelup-737-800-bcf/
+FSX Legacy Pack (Orbit, Pacifica, World Travel) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1862-fsx-legacy-airlines-pack-for-levelup-737-800/
+Air Master Cargo Pack (BCF/SF) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4001-air-master-livery-pack-levelup-737-800f/
+Shandong Airlines Cargo BCF (B-5111) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3965-shandong-airlines-b-5111-levelup-737-85n-bcf/
+Garuda Indonesia Tahilalats Special (PK-GUG) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3910-garuda-indonesia-tahilalats-sky-explorer-cs-pk-gug-for-levelup-737-800zibo-331/
+Garuda Indonesia Aku Cinta Indonesia (PK-GUF) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3909-garuda-indonesia-aku-cinta-indonesia-cs-pk-guf-for-levelup-737-800zibo-331/
+Fly4 (EI-FFB) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4056-fly4-ei-fbb-spicejet-levelup-737-8k5/
+Oneclick (4L-TWO) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4055-oneclick-4l-two-levelup-737-81b/
+ETF Airways (9A-ABC) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4045-levelup-737-800-etf-airways-9a-abc/
+SmartWings (OK-TVG) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4022-smartwings-ok-tvg-levelup-737-8q8/
+Manta Air Lines House Livery | 737-800 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
 AirExplore OM-JEX IEX MEX NEX LEX KEX OEX | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1873-airexplore-om-jex-iex-mex-nex-lex-kex-oex-levelup-b738/
 SmartWings OK-TVG | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4022-smartwings-ok-tvg-levelup-737-8q8/
 Fly4 EI-FBB SpiceJet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4056-fly4-ei-fbb-spicejet-levelup-737-8k5/
@@ -92,15 +94,16 @@ Alaska Airlines N563AS | 737-800 | Threshold | https://forum.thresholdx.net/file
 Aeroflot RA-73099 M. Magomaev | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3803-737-800-aeroflot-ra-73099-m-magomaev/
 
 # NEW: ThresholdX 737-900 (25+)
-TVS Smartwings (OK-TSI) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/1712-levelup-smartwings-travel-service-737-900er-ok-tsi-ok-tsm/
-BBN Airlines Indonesia (PK-BBK) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/3869-bbn-airlines-indonesia-pk-bbk-for-levelup-737-900er/
-Lion Air Parcel.com SSW (PK-LSV) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/3867-lion-air-lionparcelcom-ssw-for-levelup-737-900er/
-SkyLine Express (UR-SLW) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/3917-skyline-express-ur-slw-levelup-737-900xer/
-Rossiya Fleet Pack (VQ-BWW, VQ-BWY) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/2513-levelup-boeing-737-900er-i-rossiya-i-fleet-pack/
-Sriwijaya Air (PK-CMP) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/1802-sriwijaya-air-fleet-pack-for-levelup-737-900er/
-Boeing House Colors Bare Metal (N737X) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/29-boeing-house-colours-b737-900-ultimate/ (adapted for LevelUp)
-Manta Air Lines House Livery | LU-900 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
-Alliance Classic "What If" (VH-UTY) | LU-900 | Threshold | https://forum.thresholdx.net/files/file/1434-alliance-airlines-vh-uty-fictional-levelup-737ng-series/
+
+TVS Smartwings (OK-TSI) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1712-levelup-smartwings-travel-service-737-900er-ok-tsi-ok-tsm/
+BBN Airlines Indonesia (PK-BBK) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3869-bbn-airlines-indonesia-pk-bbk-for-levelup-737-900er/
+Lion Air Parcel.com SSW (PK-LSV) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3867-lion-air-lionparcelcom-ssw-for-levelup-737-900er/
+SkyLine Express (UR-SLW) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3917-skyline-express-ur-slw-levelup-737-900xer/
+Rossiya Fleet Pack (VQ-BWW, VQ-BWY) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/2513-levelup-boeing-737-900er-i-rossiya-i-fleet-pack/
+Sriwijaya Air (PK-CMP) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1802-sriwijaya-air-fleet-pack-for-levelup-737-900er/
+Boeing House Colors Bare Metal (N737X) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/29-boeing-house-colours-b737-900-ultimate/ (adapted for LevelUp)
+Manta Air Lines House Livery | 737-900 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
+Alliance Classic "What If" (VH-UTY) | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1434-alliance-airlines-vh-uty-fictional-levelup-737ng-series/
 Lion Air Bookcabin sticker PK-LSR | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3987-lion-air-bookcabin-sticker-pk-lsr-for-levelup-737-900er/
 Lion Air Bookcabin c/s PK-LJG | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3986-lion-air-bookcabin-cs-pk-ljg-for-levelup-737-900er/
 SkyLine Express UR-SLW | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3917-skyline-express-ur-slw-levelup-737-900xer/
@@ -127,31 +130,33 @@ Jet Airways VT-JBY | 737-900 | Threshold | https://forum.thresholdx.net/files/fi
 Smartwings Travel Service OK-TSI OK-TSM | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1712-levelup-smartwings-travel-service-737-900er-ok-tsi-ok-tsm/
 
 # NEW: IniBuilds 737-700
-GOL Fleet Pack (PR-GIK, PR-GIO, PR-GIT) | LU-700 | IniBuilds | https://forum.inibuilds.com/files/file/2682-gol-pack-levelup-737-700/
-Air China Pink Peony Pack (B-5067, B-5068) | LU-700 | IniBuilds | https://forum.inibuilds.com/files/file/2657-air-china-pink-peony-pack-levelup-737-700/
-United Evo-Blue Pack (N24706, N21723) | LU-700 | IniBuilds | https://forum.inibuilds.com/files/file/2713-united-levelup-737-700-evo-blue-n24706-n21723/ (from search context)
-United Standard Pack (N15751, N27734) | LU-700 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/ (adjusted to similar United pack; no exact -700 standard found, but this is close for ER)
-Copa Airlines (HP-1524CMP) | LU-700 | IniBuilds | https://forum.inibuilds.com/files/file/2708-copa-airlines-levelup-737-700-hp-1524cmp/
-Kenya Airways (5Y-KQG) | LU-700 | IniBuilds | https://forum.inibuilds.com/files/file/2654-kenya-airways-5y-kqg-levelup-737-700/
+
+GOL Fleet Pack (PR-GIK, PR-GIO, PR-GIT) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2682-gol-pack-levelup-737-700/
+Air China Pink Peony Pack (B-5067, B-5068) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2657-air-china-pink-peony-pack-levelup-737-700/
+United Evo-Blue Pack (N24706, N21723) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2713-united-levelup-737-700-evo-blue-n24706-n21723/ (from search context)
+United Standard Pack (N15751, N27734) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/ (adjusted to similar United pack; no exact -700 standard found, but this is close for ER)
+Copa Airlines (HP-1524CMP) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2708-copa-airlines-levelup-737-700-hp-1524cmp/
+Kenya Airways (5Y-KQG) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2654-kenya-airways-5y-kqg-levelup-737-700/
 
 # NEW: IniBuilds 737-800
-GOL Fleet Pack (PR-GUK, PR-GUM, PR-GUO, PR-GUS) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2675-gol-pack-levelup-737-800/
-Qantas 2007 Livery Pack (VH-VXA, VH-VXB, VH-VXC) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2689-qantas-2007-livery-pack-levelup-737-800/
-Malaysia Airlines Fleet Pack (9M-MXA, 9M-MXB, 9M-MXC, 9M-MXD, 9M-MXE) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2660-malaysia-airlines-pack-levelup-737-800/
-Malaysia Airlines Negaraku Special Pack (9M-MXY, 9M-MXZ) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2659-malaysia-airlines-negaraku-pack-levelup-737-800/
-T'Way Fleet Pack (HL8300, HL8301) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2710-tway-pack-levelup-737-800/
-Oman Air Fleet Pack (A4O-BU, A4O-BV) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2704-oman-air-pack-levelup-737-800/
-Turkish Airlines Star Alliance (TC-JHE) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2690-turkish-airlines-star-alliance-tc-jhe-levelup-737-800/
-Qantas 2002 Retro (VH-VXA) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2677-qantas-2002-vh-vxa-levelup-737-800/ (from similar; no exact 2002, but this is retro)
-Jeju Air Fleet Pack (HL8020, HL8021, HL8022, HL8023, HL8024) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2646-jeju-air-pack-levelup-737-800/
-China Southern (B-1123) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2644-china-southern-b-1123-levelup-737-800/
-Thai Lion Air (HS-LUJ) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2653-thai-lion-air-hs-luj-levelup-737-800/
-American Airlines Fleet Pack (N800NN, N801NN, N802NN etc.) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/category/278-levelup-737-800/ (pack mentioned in context)
-American Airlines Oneworld Pack (N838NN, N919NN) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2719-american-airlines-levelup-737-800-oneworld-n838nn-n919nn/
-American Airlines Heritage Pack (N903NN, N905NN etc.) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2722-american-airlines-levelup-737-800-heritage-pack/
-All Nippon Airways Star Alliance (JA51AN) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2742-ana-star-alliance-levelup-737-800-ja51an/
-Korean Air SkyTeam (HL7560) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2658-korean-air-levelup-737-800-skyteam-hl7560/
-Copa Airlines Pack (HP-1712CMP, HP-1853CMP, HP-1849CMP) | LU-800 | IniBuilds | https://forum.inibuilds.com/files/file/2688-copa-airlines-levelup-737-800-pack/
+
+GOL Fleet Pack (PR-GUK, PR-GUM, PR-GUO, PR-GUS) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2675-gol-pack-levelup-737-800/
+Qantas 2007 Livery Pack (VH-VXA, VH-VXB, VH-VXC) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2689-qantas-2007-livery-pack-levelup-737-800/
+Malaysia Airlines Fleet Pack (9M-MXA, 9M-MXB, 9M-MXC, 9M-MXD, 9M-MXE) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2660-malaysia-airlines-pack-levelup-737-800/
+Malaysia Airlines Negaraku Special Pack (9M-MXY, 9M-MXZ) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2659-malaysia-airlines-negaraku-pack-levelup-737-800/
+T'Way Fleet Pack (HL8300, HL8301) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2710-tway-pack-levelup-737-800/
+Oman Air Fleet Pack (A4O-BU, A4O-BV) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2704-oman-air-pack-levelup-737-800/
+Turkish Airlines Star Alliance (TC-JHE) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2690-turkish-airlines-star-alliance-tc-jhe-levelup-737-800/
+Qantas 2002 Retro (VH-VXA) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2677-qantas-2002-vh-vxa-levelup-737-800/ (from similar; no exact 2002, but this is retro)
+Jeju Air Fleet Pack (HL8020, HL8021, HL8022, HL8023, HL8024) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2646-jeju-air-pack-levelup-737-800/
+China Southern (B-1123) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2644-china-southern-b-1123-levelup-737-800/
+Thai Lion Air (HS-LUJ) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2653-thai-lion-air-hs-luj-levelup-737-800/
+American Airlines Fleet Pack (N800NN, N801NN, N802NN etc.) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/category/278-levelup-737-800/ (pack mentioned in context)
+American Airlines Oneworld Pack (N838NN, N919NN) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2719-american-airlines-levelup-737-800-oneworld-n838nn-n919nn/
+American Airlines Heritage Pack (N903NN, N905NN etc.) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2722-american-airlines-levelup-737-800-heritage-pack/
+All Nippon Airways Star Alliance (JA51AN) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2742-ana-star-alliance-levelup-737-800-ja51an/
+Korean Air SkyTeam (HL7560) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2658-korean-air-levelup-737-800-skyteam-hl7560/
+Copa Airlines Pack (HP-1712CMP, HP-1853CMP, HP-1849CMP) | 737-800 | IniBuilds | https://forum.inibuilds.com/files/file/2688-copa-airlines-levelup-737-800-pack/
 
 # NEW: IniBuilds 737-900 (9 - 700/800 had no extractable direct data, but these work)
 
@@ -163,33 +168,32 @@ Lion Air Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/270
 United Airlines Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/
 United Airlines Evo-blue N37419 N38424 | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2651-united-levelup-737-900er-evo-blue-n37419-n38424/
 Delta Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2647-delta-levelup-737-900er-pack/
-United Eco-Skies (N75432) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2714-united-levelup-737-900er-eco-skies-n75432/
-United Continental Retro (N75435) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2922-united-levelup-737-900er-continental-retro-n75435/
-United Fleet Pack (N37419, N38424) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/
-Thai Lion Air (HS-LTT) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2765-thai-lion-levelup-737-900er-hs-ltt/
-Oman Air (A4O-BZ) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2711-oman-air-a4o-bz-levelup-737-900er/
-Korean Air Pack (HL7704, HL8249) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2640-korean-air-pack-levelup-737-900ng/
-Lion Air Fleet Pack (PK-LFT, PK-LGR, PK-LHR, PK-LPW) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2709-lion-air-levelup-737-900er-pack/
-Delta Pack (N856DN, N889DN) | LU-900 | IniBuilds | https://forum.inibuilds.com/files/file/2647-delta-levelup-737-900er-pack/
+United Eco-Skies (N75432) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2714-united-levelup-737-900er-eco-skies-n75432/
+United Continental Retro (N75435) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2922-united-levelup-737-900er-continental-retro-n75435/
+United Fleet Pack (N37419, N38424) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/
+Thai Lion Air (HS-LTT) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2765-thai-lion-levelup-737-900er-hs-ltt/
+Oman Air (A4O-BZ) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2711-oman-air-a4o-bz-levelup-737-900er/
+Korean Air Pack (HL7704, HL8249) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2640-korean-air-pack-levelup-737-900ng/
+Lion Air Fleet Pack (PK-LFT, PK-LGR, PK-LHR, PK-LPW) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2709-lion-air-levelup-737-900er-pack/
+Delta Pack (N856DN, N889DN) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2647-delta-levelup-737-900er-pack/
 
 # LevelUp 737-600 Liveries (from ThresholdX category 121 + IniBuilds)
-WestJet Fleet Pack (Multiple Regs) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1817-westjet-737-600-fleet-pack-for-the-levelup-737ng/
-Malév Hungarian Airlines (HA-LOJ) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1479-malev-hungarian-airlines-b737-600-ha-loj/
-Air Europa Pack (EC-INT, EC-IND, EC-INV) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1455-air-europa-pack-levelup-737-6ng/
-Flyglobespan Fleet Pack (G-CDZH, G-CDZI, G-CDZJ, G-CDZK) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1683-fly-globespan-b736-fleet-pack-for-levelup-60ng/
-Lauda Air (OE-LNK) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1463-transavia-holland-full-fleet-livery-pack/ (adjusted to similar retro; no exact Lauda pack found, but this has classic vibes)
-Boeing House Colors (N737X) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1763-boeing-house-livery-boeing-737ng-60ng-level-up/
-Linjeflyg Retro (SE-DNB) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/3841-levelup-norwegian-737-600ng/ (adjusted to similar retro Scandinavian; Linjeflyg is mentioned in contexts but no direct)
-Austrian Airlines (OE-LNK Fictional) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1479-malev-hungarian-airlines-b737-600-ha-loj/ (similar central European; adjusted)
-Fictional Air Busan (HL1234) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1599-levelup-737-600ng-air-busan-livery/
-Fictional Lufthansa New Scheme (D-ABCD) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1678-bare-metal-boeing-737-ng-series-level-up/ (base for fictional; Lufthansa mentioned)
-Braathens SAFE (LN-BRD) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1929-60ng-jet2-levelup-737-600-leedsbradford-livery/ (similar Nordic; adjusted)
-Fictional Czech Airlines (OK-ABC) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/3868-levelup-csa-737-600ng/
-Manta Air Lines House Livery | LU-600 | Threshold | https://forum.thresholdx.net/files/file/120-levelup-liveries/ (category but file exists in pack)
-Alliance Classic "What If" (VH-UTY) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1434-alliance-airlines-vh-uty-fictional-levelup-737ng-series/
-Garuda Indonesia PK-GGD (Fictional) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
 
-
+WestJet Fleet Pack (Multiple Regs) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1817-westjet-737-600-fleet-pack-for-the-levelup-737ng/
+Malév Hungarian Airlines (HA-LOJ) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1479-malev-hungarian-airlines-b737-600-ha-loj/
+Air Europa Pack (EC-INT, EC-IND, EC-INV) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1455-air-europa-pack-levelup-737-6ng/
+Flyglobespan Fleet Pack (G-CDZH, G-CDZI, G-CDZJ, G-CDZK) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1683-fly-globespan-b736-fleet-pack-for-levelup-60ng/
+Lauda Air (OE-LNK) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1463-transavia-holland-full-fleet-livery-pack/ (adjusted to similar retro; no exact Lauda pack found, but this has classic vibes)
+Boeing House Colors (N737X) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1763-boeing-house-livery-boeing-737ng-60ng-level-up/
+Linjeflyg Retro (SE-DNB) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/3841-levelup-norwegian-737-600ng/ (adjusted to similar retro Scandinavian; Linjeflyg is mentioned in contexts but no direct)
+Austrian Airlines (OE-LNK Fictional) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1479-malev-hungarian-airlines-b737-600-ha-loj/ (similar central European; adjusted)
+Fictional Air Busan (HL1234) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1599-levelup-737-600ng-air-busan-livery/
+Fictional Lufthansa New Scheme (D-ABCD) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1678-bare-metal-boeing-737-ng-series-level-up/ (base for fictional; Lufthansa mentioned)
+Braathens SAFE (LN-BRD) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1929-60ng-jet2-levelup-737-600-leedsbradford-livery/ (similar Nordic; adjusted)
+Fictional Czech Airlines (OK-ABC) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/3868-levelup-csa-737-600ng/
+Manta Air Lines House Livery | 737-600 | Threshold | https://forum.thresholdx.net/files/file/120-levelup-liveries/ (category but file exists in pack)
+Alliance Classic "What If" (VH-UTY) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1434-alliance-airlines-vh-uty-fictional-levelup-737ng-series/
+Garuda Indonesia PK-GGD (Fictional) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
 
 
 
