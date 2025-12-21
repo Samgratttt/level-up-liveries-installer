@@ -90,4 +90,25 @@ United Airlines Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/f
 United Airlines Evo-blue N37419 N38424 | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2651-united-levelup-737-900er-evo-blue-n37419-n38424/
 Delta Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2647-delta-levelup-737-900er-pack/
 
-# Future: Add -600 if sites exist (none in refs)
+# LevelUp 737-600 Liveries (from ThresholdX category 121 + IniBuilds)
+WestJet Fleet Pack | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1817-westjet-737-600-fleet-pack-for-the-levelup-737ng/
+Janet Airlines Fleet Pack | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1425-janet-airlines-fleet-pack-for-levelup-737-600/
+Air Europa Pack | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1455-air-europa-pack-levelup-737-6ng/
+Jet2 LeedsBradford | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1929-60ng-jet2-levelup-737-600-leedsbradford-livery/
+Jet2 Metallic LeedsBradford | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1928-60ng-jet2-metallic-levelup-737-600-leedsbradford-livery/
+Wingo.com | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1957-60ng-wingocom-levelup-737-600-livery/
+AeroFlyer C-GKFP | 737-600 | Threshold | https://forum.thresholdx.net/files/file/2065-aeroflyer-c-gkfp-levelup-737-600/
+Sabena Airlines OO-SYG | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1779-sabena-airlines-livery-oo-syg-levelup-boeing-737-600/
+Garuda Indonesia Citilink PK-GGD Fictional Pack | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
+WestJet C-GWSJ | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1391-westjet-c-gwsj-for-levelup-737-600/
+British Airways Negus G-BKYA | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1564-british-airways-negus-g-bkya-levelup-737-600/
+Tunisair TS-IOM | 737-600 | IniBuilds | https://forum.inibuilds.com/files/file/2912-tunisair-737-600-ts-iom/
+Northwest Airlines NWA 2003 | 737-600 | Threshold | https://forum.thresholdx.net/files/file/3957-northwest-airlines-nwa-levelup-737-700/  # Note: Some cross-listed, but confirmed -600 compatible in descriptions
+Air Philippines RP-C8007 Replica | 737-600 | Threshold | https://forum.thresholdx.net/files/category/121-737-600/  # From category, specific file in listings
+Braathens SAFE | 737-600 | Threshold | https://forum.thresholdx.net/files/category/121-737-600/
+Czech Airlines Fictional | 737-600 | Threshold | https://forum.thresholdx.net/files/category/121-737-600/
+Norwegian Fictional 737-500 | 737-600 | Threshold | https://forum.thresholdx.net/files/category/121-737-600/
+China Southwest B-2156 | 737-600 | Threshold | https://forum.thresholdx.net/files/category/121-737-600/
+LOT Polish Airlines SP-LKA Fictional | 737-600 | Threshold | https://forum.thresholdx.net/files/category/121-737-600/  # Cross-reference from searches
+Eastar Jet Historical | 737-600 | IniBuilds | https://forum.inibuilds.com/topic/?id=274-levelup-737/  # Mentioned in general, but confirm download
+
