@@ -2,4 +2,4 @@
 
 Hello! So this installer is very early but basically you can install liveries from there and the whole livery list is in the liveries.txt and you can add more liveries yourself! 
 
-format for a livery: Livery Name|Site|Variant|Full URL
+format for a livery: Exact File Title|Site|Variant|Full URL
