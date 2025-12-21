@@ -133,8 +133,8 @@ Smartwings Travel Service OK-TSI OK-TSM | 737-900 | Threshold | https://forum.th
 
 GOL Fleet Pack (PR-GIK, PR-GIO, PR-GIT) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2682-gol-pack-levelup-737-700/
 Air China Pink Peony Pack (B-5067, B-5068) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2657-air-china-pink-peony-pack-levelup-737-700/
-United Evo-Blue Pack (N24706, N21723) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2713-united-levelup-737-700-evo-blue-n24706-n21723/ (from search context)
-United Standard Pack (N15751, N27734) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/ (adjusted to similar United pack; no exact -700 standard found, but this is close for ER)
+United Evo-Blue Pack (N24706, N21723) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2642-united-levelup-737-700-evo-blue-n24706-n21723/ (from search context)
+United Standard Pack (N15751, N27734) | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/ (adjusted to similar United pack; no exact -700 standard found, but this is close for ER)
 Copa Airlines (HP-1524CMP) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2708-copa-airlines-levelup-737-700-hp-1524cmp/
 Kenya Airways (5Y-KQG) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2654-kenya-airways-5y-kqg-levelup-737-700/
 
@@ -194,6 +194,7 @@ Fictional Czech Airlines (OK-ABC) | 737-600 | Threshold | https://forum.threshol
 Manta Air Lines House Livery | 737-600 | Threshold | https://forum.thresholdx.net/files/file/120-levelup-liveries/ (category but file exists in pack)
 Alliance Classic "What If" (VH-UTY) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1434-alliance-airlines-vh-uty-fictional-levelup-737ng-series/
 Garuda Indonesia PK-GGD (Fictional) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
+
 
 
 
