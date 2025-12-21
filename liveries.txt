@@ -1,40 +1,5 @@
-80NG United N24211|Threshold|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
-80NG United Continental Retro|Threshold|800|https://forum.thresholdx.net/files/file/1558-80ng-united-continental/
-80NG United Evo Blue Pack|iniBuilds|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
-
-80NG American N921NN|Threshold|800|https://forum.thresholdx.net/files/file/1327-80ng-american-n921nn/
-80NG American N909NN|Threshold|800|https://forum.thresholdx.net/files/file/1332-80ng-american-n909nn/
-80NG American PSA Heritage|Threshold|800|https://forum.thresholdx.net/files/file/1604-80ng-american-psa/
-
-80NG Delta N3747D|Threshold|800|https://forum.thresholdx.net/files/file/1341-80ng-delta-n3747d/
-80NG Delta Team USA|Threshold|800|https://forum.thresholdx.net/files/file/1592-80ng-delta-team-usa/
-
-73NG Southwest Canyon Blue|Threshold|700|https://forum.thresholdx.net/files/file/1351-73ng-southwest-canyon-blue/
-73NG Southwest Heart One|Threshold|700|https://forum.thresholdx.net/files/file/1566-73ng-southwest-heart-one/
-
-80NG Alaska Honoring Those Who Serve|Threshold|800|https://forum.thresholdx.net/files/file/1373-80ng-alaska-military/
-80NG Alaska Star Wars The Force Awakens|Threshold|800|https://forum.thresholdx.net/files/file/1474-80ng-alaska-star-wars/
-
-80NG JetBlue N618JB|Threshold|800|https://forum.thresholdx.net/files/file/1382-80ng-jetblue-n618jb/
-80NG JetBlue FDNY|Threshold|800|https://forum.thresholdx.net/files/file/1583-80ng-jetblue-fdny/
-
-80NG WestJet C-GWSZ|Threshold|800|https://forum.thresholdx.net/files/file/1401-80ng-westjet-c-gwsz/
-80NG WestJet Retro 1996|Threshold|800|https://forum.thresholdx.net/files/file/1622-80ng-westjet-retro/
-
-80NG Ryanair EI-DCL|Threshold|800|https://forum.thresholdx.net/files/file/1413-80ng-ryanair-ei-dcl/
-80NG Malta Air|Threshold|800|https://forum.thresholdx.net/files/file/1654-80ng-malta-air/
-
-80NG easyJet G-EZUL|Threshold|800|https://forum.thresholdx.net/files/file/1421-80ng-easyjet-g-ezul/
-80NG easyJet Switzerland HB-JZA|Threshold|800|https://forum.thresholdx.net/files/file/1661-80ng-easyjet-switzerland/
-
-80NG KLM PH-BXA|Threshold|800|https://forum.thresholdx.net/files/file/1436-80ng-klm-ph-bxa/
-80NG KLM 100 Years|Threshold|800|https://forum.thresholdx.net/files/file/1677-80ng-klm-100-years/
-
-80NG Norwegian LN-NIB|Threshold|800|https://forum.thresholdx.net/files/file/1448-80ng-norwegian-ln-nib/
-80NG Norwegian UNICEF|Threshold|800|https://forum.thresholdx.net/files/file/1682-80ng-norwegian-unicef/
-
-80NG Turkish TC-JYB|Threshold|800|https://forum.thresholdx.net/files/file/1459-80ng-turkish-tc-jyb/
-80NG Turkish Star Alliance|Threshold|800|https://forum.thresholdx.net/files/file/1690-80ng-turkish-star/
-
-73NG NATO Grey Tactical|Threshold|700|https://forum.thresholdx.net/files/file/1751-73ng-nato-grey/
-80NG USAF C-40B|Threshold|800|https://forum.thresholdx.net/files/file/1752-80ng-usaf-c40/
+THR-0001|Threshold|United|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
+THR-0002|Threshold|Anadolujet|800|https://forum.thresholdx.net/files/file/1622-anadolujet-tc-jzr-boeing-737-800-levelup/
+INI-0003|iniBuilds|Ryanair|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
+INI-0004|iniBuilds|Aegean|700|https://forum.inibuilds.com/files/file/2776-aegean-airlines-boeing-737-700-levelup/
+THR-0005|Threshold|WestJet|700|https://forum.thresholdx.net/files/file/1554-westjet-boeing-737-700-levelup/
