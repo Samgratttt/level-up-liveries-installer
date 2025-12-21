@@ -4,18 +4,18 @@ Alaska Airlines Salmon People | 737-800 | Threshold | https://forum.thresholdx.n
 Lion Air Bookcabin | 737-900 | Threshold | https://forum.thresholdx.net/files/file/3986-lion-air-bookcabin-cs-pk-ljg-for-levelup-737-900er/
 
 # NEW: ThresholdX 737-700 (25+)
-SpiceJet Fleet Pack (VT-SLA, VT-SLB, VT-SLP) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1734-spicejet-737-700-fleet-pack-levelup-737ng/
-Malév Hungarian Airlines Fleet Pack (HA-LOA) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1480-malev-hungarian-airlines-levelup-b737-700-ha-loa/
-Virgin Australia Fleet Pack (Updated) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/3872-virgin-australia-737-700-fleet-pack-2024-update/
-Cabo Verde Airlines (D4-CCI) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/3592-level-up-boeing-737-700-cabo-verde-airlines-d4-cci/
-Southwest Airlines Penguin One (N248WN) | LU-700 | Threshold | https://forum.thresholdx.net/files/category/122-737-700/ (from mention; specific penguin one in category)
-Delta Air Lines 10-Pack Fleet (N301DQ etc.) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1593-levelup-737-700-delta-air-lines-10-pack/
-LAM Mozambique (C9-BAR) | LU-700 | Threshold | https://forum.thresholdx.net/files/category/122-737-700/ (mentioned)
-Equair Pack (HC-CXB Condor, HC-CXC Albatros) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1977-equair-fleet-737-700-level-up/
-Southwest Michigan One Fictional (N725SW) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/2201-70ng-southwest-airlines-michigan-one-b737-7h4/
-Papua Virtual Airlines (PK-PVD) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/2462-papua-pk-pvd-70ng/
-Manta Air Lines House Livery | LU-700 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
-WestJet 3-Pack (C-GWJO, C-GWSO, C-GWBF) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/3900-levelup-westjet-737-700-3-pack/
+SpiceJet Fleet Pack (VT-SLA, VT-SLB, VT-SLP) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1734-spicejet-737-700-fleet-pack-levelup-737ng/
+Malév Hungarian Airlines Fleet Pack (HA-LOA) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1480-malev-hungarian-airlines-levelup-b737-700-ha-loa/
+Virgin Australia Fleet Pack (Updated) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3872-virgin-australia-737-700-fleet-pack-2024-update/
+Cabo Verde Airlines (D4-CCI) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3592-level-up-boeing-737-700-cabo-verde-airlines-d4-cci/
+Southwest Airlines Penguin One (N248WN) | 737-700 | Threshold | https://forum.thresholdx.net/files/category/122-737-700/ (from mention; specific penguin one in category)
+Delta Air Lines 10-Pack Fleet (N301DQ etc.) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1593-levelup-737-700-delta-air-lines-10-pack/
+LAM Mozambique (C9-BAR) | 737-700 | Threshold | https://forum.thresholdx.net/files/category/122-737-700/ (mentioned)
+Equair Pack (HC-CXB Condor, HC-CXC Albatros) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1977-equair-fleet-737-700-level-up/
+Southwest Michigan One Fictional (N725SW) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2201-70ng-southwest-airlines-michigan-one-b737-7h4/
+Papua Virtual Airlines (PK-PVD) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2462-papua-pk-pvd-70ng/
+Manta Air Lines House Livery | 737-700 | Threshold | https://forum.thresholdx.net/files/category/120-levelup-liveries/
+WestJet 3-Pack (C-GWJO, C-GWSO, C-GWBF) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3900-levelup-westjet-737-700-3-pack/
 Jettime Pack (OY-JTP, OY-JZJ, OY-JZN) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1524-jettime-levelup-livery-pack/
 Luxair Fleet Pack (-700 Regs) | LU-700 | Threshold | https://forum.thresholdx.net/files/file/1733-luxair-fleet-pack-levelup-737ng/
 Papua Virtual Airlines | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2462-papua-pk-pvd-70ng/
@@ -188,6 +188,7 @@ Fictional Czech Airlines (OK-ABC) | LU-600 | Threshold | https://forum.threshold
 Manta Air Lines House Livery | LU-600 | Threshold | https://forum.thresholdx.net/files/file/120-levelup-liveries/ (category but file exists in pack)
 Alliance Classic "What If" (VH-UTY) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1434-alliance-airlines-vh-uty-fictional-levelup-737ng-series/
 Garuda Indonesia PK-GGD (Fictional) | LU-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
+
 
 
 
