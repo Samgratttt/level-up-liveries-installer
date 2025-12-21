@@ -1,8 +1,6 @@
 # =============================
 #         AIRLINE LIST
 # =============================
-
-known_airlines = [
     'Premier Executive Transport Services', 'People\'s Liberation Army Air Force', 'Central Charter Airlines Slovakia',
     'Mauritania Airlines International', 'Presidential Airways (scheduled)', 'Pan American Airways (1996-1998)',
     "Sun d'Or International Airlines", 'Ukraine International Airlines', 'Sunworld International Airways',
@@ -149,4 +147,4 @@ known_airlines = [
     'TAP Air Portugal', 'Azores Airlines', 'Air Baltic',
     'LOT Polish Airlines', 'Czech Airlines', 'Air Serbia',
     'Boeing House Colors', 'Boeing House Livery', 'Boeing House'
-]
+
