@@ -1,64 +1,40 @@
-United Airlines Evo Blue N37267|Inibuilds|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
-United Airlines Battleship Gray|Threshold|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
-United Airlines Star Alliance|Threshold|700|https://forum.thresholdx.net/files/file/1457-73ng-united-star-alliance/
-United Airlines 737-900ER|Threshold|900|https://forum.thresholdx.net/files/file/1623-73ng-united-900er/
+80NG United N24211|Threshold|800|https://forum.thresholdx.net/files/file/1316-80ng-united-n24211/
+80NG United Continental Retro|Threshold|800|https://forum.thresholdx.net/files/file/1558-80ng-united-continental/
+80NG United Evo Blue Pack|iniBuilds|800|https://forum.inibuilds.com/files/file/2632-united-levelup-737-800-evo-blue-pack/
 
-American Airlines Chrome|Threshold|800|https://forum.thresholdx.net/files/file/1380-80ng-american-airlines/
-American Airlines AstroJet|Threshold|700|https://forum.thresholdx.net/files/file/1511-73ng-american-astrojet/
-American Airlines OneWorld|Threshold|800|https://forum.thresholdx.net/files/file/1599-80ng-american-oneworld/
+80NG American N921NN|Threshold|800|https://forum.thresholdx.net/files/file/1327-80ng-american-n921nn/
+80NG American N909NN|Threshold|800|https://forum.thresholdx.net/files/file/1332-80ng-american-n909nn/
+80NG American PSA Heritage|Threshold|800|https://forum.thresholdx.net/files/file/1604-80ng-american-psa/
 
-Delta Air Lines Widget|Threshold|800|https://forum.thresholdx.net/files/file/1421-80ng-delta-widget/
-Delta Air Lines SkyTeam|Threshold|700|https://forum.thresholdx.net/files/file/1532-73ng-delta-skyteam/
+80NG Delta N3747D|Threshold|800|https://forum.thresholdx.net/files/file/1341-80ng-delta-n3747d/
+80NG Delta Team USA|Threshold|800|https://forum.thresholdx.net/files/file/1592-80ng-delta-team-usa/
 
-Southwest Airlines Canyon Blue|Threshold|700|https://forum.thresholdx.net/files/file/1479-73ng-southwest-canyon-blue/
-Southwest Airlines Heart|Threshold|800|https://forum.thresholdx.net/files/file/1588-80ng-southwest-heart/
-Southwest Airlines Triple Crown|Threshold|700|https://forum.thresholdx.net/files/file/1617-73ng-southwest-triple-crown/
+73NG Southwest Canyon Blue|Threshold|700|https://forum.thresholdx.net/files/file/1351-73ng-southwest-canyon-blue/
+73NG Southwest Heart One|Threshold|700|https://forum.thresholdx.net/files/file/1566-73ng-southwest-heart-one/
 
-Alaska Airlines Honoring Those Who Serve|Threshold|800|https://forum.thresholdx.net/files/file/1525-80ng-alaska-honoring-those-who-serve/
-Alaska Airlines Spirit of the Islands|Threshold|800|https://forum.thresholdx.net/files/file/1602-80ng-alaska-spirit-of-the-islands/
+80NG Alaska Honoring Those Who Serve|Threshold|800|https://forum.thresholdx.net/files/file/1373-80ng-alaska-military/
+80NG Alaska Star Wars The Force Awakens|Threshold|800|https://forum.thresholdx.net/files/file/1474-80ng-alaska-star-wars/
 
-WestJet Climbing Higher|Threshold|800|https://forum.thresholdx.net/files/file/1554-80ng-westjet/
-WestJet Disney Frozen|Threshold|800|https://forum.thresholdx.net/files/file/1644-80ng-westjet-frozen/
+80NG JetBlue N618JB|Threshold|800|https://forum.thresholdx.net/files/file/1382-80ng-jetblue-n618jb/
+80NG JetBlue FDNY|Threshold|800|https://forum.thresholdx.net/files/file/1583-80ng-jetblue-fdny/
 
-Air Canada New Livery|Threshold|800|https://forum.thresholdx.net/files/file/1491-80ng-air-canada-new/
-Air Canada Star Alliance|Threshold|700|https://forum.thresholdx.net/files/file/1569-73ng-air-canada-star-alliance/
+80NG WestJet C-GWSZ|Threshold|800|https://forum.thresholdx.net/files/file/1401-80ng-westjet-c-gwsz/
+80NG WestJet Retro 1996|Threshold|800|https://forum.thresholdx.net/files/file/1622-80ng-westjet-retro/
 
-Ryanair Standard|Threshold|800|https://forum.thresholdx.net/files/file/1407-80ng-ryanair/
-Ryanair Gamechanger|Threshold|800|https://forum.thresholdx.net/files/file/1635-80ng-ryanair-gamechanger/
+80NG Ryanair EI-DCL|Threshold|800|https://forum.thresholdx.net/files/file/1413-80ng-ryanair-ei-dcl/
+80NG Malta Air|Threshold|800|https://forum.thresholdx.net/files/file/1654-80ng-malta-air/
 
-easyJet Standard|Threshold|800|https://forum.thresholdx.net/files/file/1414-80ng-easyjet/
-easyJet Europe|Threshold|800|https://forum.thresholdx.net/files/file/1591-80ng-easyjet-europe/
+80NG easyJet G-EZUL|Threshold|800|https://forum.thresholdx.net/files/file/1421-80ng-easyjet-g-ezul/
+80NG easyJet Switzerland HB-JZA|Threshold|800|https://forum.thresholdx.net/files/file/1661-80ng-easyjet-switzerland/
 
-Jet2 Holidays|Threshold|800|https://forum.thresholdx.net/files/file/1503-80ng-jet2-holidays/
+80NG KLM PH-BXA|Threshold|800|https://forum.thresholdx.net/files/file/1436-80ng-klm-ph-bxa/
+80NG KLM 100 Years|Threshold|800|https://forum.thresholdx.net/files/file/1677-80ng-klm-100-years/
 
-KLM Standard|Threshold|800|https://forum.thresholdx.net/files/file/1398-80ng-klm/
-KLM SkyTeam|Threshold|700|https://forum.thresholdx.net/files/file/1572-73ng-klm-skyteam/
+80NG Norwegian LN-NIB|Threshold|800|https://forum.thresholdx.net/files/file/1448-80ng-norwegian-ln-nib/
+80NG Norwegian UNICEF|Threshold|800|https://forum.thresholdx.net/files/file/1682-80ng-norwegian-unicef/
 
-Transavia Green|Threshold|800|https://forum.thresholdx.net/files/file/1544-80ng-transavia/
+80NG Turkish TC-JYB|Threshold|800|https://forum.thresholdx.net/files/file/1459-80ng-turkish-tc-jyb/
+80NG Turkish Star Alliance|Threshold|800|https://forum.thresholdx.net/files/file/1690-80ng-turkish-star/
 
-Lufthansa Standard|Threshold|800|https://forum.thresholdx.net/files/file/1433-80ng-lufthansa/
-Eurowings Standard|Threshold|700|https://forum.thresholdx.net/files/file/1608-73ng-eurowings/
-
-Norwegian Red Nose|Threshold|800|https://forum.thresholdx.net/files/file/1488-80ng-norwegian/
-Norwegian Arctic Tail|Threshold|800|https://forum.thresholdx.net/files/file/1620-80ng-norwegian-arctic/
-
-Turkish Airlines Standard|Threshold|800|https://forum.thresholdx.net/files/file/1466-80ng-turkish-airlines/
-Pegasus Airlines Standard|Threshold|800|https://forum.thresholdx.net/files/file/1582-80ng-pegasus/
-
-Aegean Airlines Standard|Threshold|800|https://forum.thresholdx.net/files/file/1651-80ng-aegean-airlines/
-Aegean Airlines Star Alliance|Threshold|800|https://forum.thresholdx.net/files/file/1662-80ng-aegean-star-alliance/
-
-Qantas Standard|Threshold|800|https://forum.thresholdx.net/files/file/1445-80ng-qantas/
-Virgin Australia Standard|Threshold|800|https://forum.thresholdx.net/files/file/1576-80ng-virgin-australia/
-
-Flydubai Standard|Threshold|800|https://forum.thresholdx.net/files/file/1522-80ng-flydubai/
-Air Arabia Standard|Threshold|800|https://forum.thresholdx.net/files/file/1597-80ng-air-arabia/
-
-ANA Standard|Threshold|800|https://forum.thresholdx.net/files/file/1419-80ng-ana/
-JAL Standard|Threshold|800|https://forum.thresholdx.net/files/file/1437-80ng-jal/
-
-Singapore Airlines Standard|Threshold|800|https://forum.thresholdx.net/files/file/1481-80ng-singapore-airlines/
-Scoot Standard|Threshold|800|https://forum.thresholdx.net/files/file/1611-80ng-scoot/
-
-NATO Special Livery|Threshold|800|https://forum.thresholdx.net/files/file/1648-80ng-nato-special/
-BBJ Qatar Amiri|Threshold|800|https://forum.thresholdx.net/files/file/1659-80ng-bbj-qatar/
+73NG NATO Grey Tactical|Threshold|700|https://forum.thresholdx.net/files/file/1751-73ng-nato-grey/
+80NG USAF C-40B|Threshold|800|https://forum.thresholdx.net/files/file/1752-80ng-usaf-c40/
