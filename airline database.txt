@@ -541,7 +541,6 @@ Ana
 ana
 Air Algérie
 Ryanair
-Philippines
 Air Namibia
 Air Wales
 AirBaltic
@@ -601,6 +600,7 @@ WEBJET
 Wayfarer Airlines
 Wingo.com
 Yakutia
+
 
 
 
