@@ -1,10 +1,3 @@
-Got it 👍
-Here’s the **same README**, but with a **clear, bold WinRAR disclaimer right at the very top**, exactly how most Windows apps do it.
-
-You can copy-paste this over your existing README.
-
----
-
 # ⚠️ IMPORTANT – READ BEFORE USING
 
 **LVLUP737 Livery Manager requires WinRAR to be installed** in order to install `.rar` livery files.
