@@ -229,3 +229,9 @@ KLM SkyTeam | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1342
 Korean Air | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1386-korean-air-b737-900er-livery-for-level-up-b737ng/
 Turkish TC-JYJ | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1365-turkish-airlines-tc-jyj-900er/
 NATO Fictional LX-N20000 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2117-levelup-737-800ng-nato-livery/
+Ryanair Fleet Package (Multiple Registrations incl. EI-DAP Gdynia, EI-DHS Zegnamy LOT, EI-DLG Winglet Stripe, EI-DLM Latehansa, EI-DLO Bye Bye EasyJet, EI-EBN Bremen, etc.) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1397-ryanair-package-b737-800-levelup/
+Ryanair EI-SEV | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1446-ryanair-ei-sev-b737-700-levelup/
+Ryanair EI-DHS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1355-ryanair-ei-dhs-b737-800-levelup/
+Ryanair/Boeing Hybrid EI-DCL | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1583-levelup-737-800-ryanairboeing-ei-dcl/
+Ryanair EI-DLN / ASL Belgium OE-IWB (BCF Trip) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1675-ryanair-ei-dlnasl-belgium-oe-iwb-bcf-trip-levelup-737-8ng/
+Ryanair EI-DCH | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1340-ryanair-ei-dch-for-levelup-737-800ng/
