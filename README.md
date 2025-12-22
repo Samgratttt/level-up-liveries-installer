@@ -98,22 +98,19 @@ Just select, download, and install.
 1. Click **Select Download Folder**
 2. Choose your browser’s download directory
 3. The selected path appears **in blue** under the button
+4. It should **NOT** be your Level Up 737 livery folder
 
 ---
 
 ### 2️⃣ Select Your LevelUp 737 Aircraft Folder
 
-Navigate to:
+Click *Select Install Folder*
 
-```
-X-Plane 12\Aircraft\LevelUp\LevelUp 737
-```
-
-Select the aircraft folder (not the liveries folder).
+Select the liveries folder (not the aircraft folder).
 
 ---
 
-### 3️⃣ Enable Auto Install (Optional)
+### 3️⃣ Auto Install
 
 * Click **Auto Install**
 * Download a livery ZIP or RAR
@@ -126,7 +123,7 @@ Select the aircraft folder (not the liveries folder).
 | File Type | Supported                |
 | --------- | ------------------------ |
 | `.zip`    | ✅ Yes                    |
-| `.rar`    | ⚠️ Yes (WinRAR required) |
+| `.rar`    | ✅ Yes                    |
 
 ---
 
@@ -150,15 +147,7 @@ C:\Users\<YourName>\AppData\Roaming\LVLUP737 Livery Manager\
 
 ## ❤️ Credits
 
-Developed by **Lx Gaumond**
-For the X-Plane and LevelUp community ✈️
+Developed by **L-X**
+For the X-Plane community ✈️
 
 ---
-
-If you want next:
-
-* a **startup popup warning**
-* a **WinRAR auto-detect check**
-* or a **“WinRAR not found” error dialog**
-
-Just say it — this is the final polish phase 💎
