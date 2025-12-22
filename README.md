@@ -1,14 +1,17 @@
 # ⚠️ IMPORTANT – READ BEFORE USING
 
-**LVLUP737 Livery Manager requires WinRAR to be installed** in order to install livery files.
+**LVLUP737 Livery Manager requires WinRAR or 7-Zip to be installed** in order to install livery files.
 
-* `.zip` files **will NOT work** unless WinRAR is installed and available on your system
-* `.rar` files **will NOT work** unless WinRAR is installed and available on your system
+* `.zip` files **will NOT work** unless WinRAR or 7-Zip is installed and available on your system
+* `.rar` files **will NOT work** unless WinRAR or 7-Zip is installed and available on your system
 * WinRAR is **not included** with this application
 
 👉 Download WinRAR:
-[https://www.win-rar.com/download.html?&L=0](https://www.rarlab.com](https://www.win-rar.com/download.html?&L=0)
+https://www.win-rar.com/download.html?&L=0
 
+👉 Download 7-Zip:
+
+https://www.7-zip.org/download.html
 ---
 
 # ✈️ LVLUP737 Livery Manager
@@ -23,18 +26,19 @@ Just select, download, and install.
 
 ## 🚀 Features
 
-### 🔍 Livery Browser
+### 🔍 Livery Browser and self updating
 
 * Browse liveries pulled directly from my own online GitHub database
 * Search by airline name
 * Filter by aircraft variant:
 
-  * 737-600
-  * 737-700
-  * 737-800
-  * 737-900
+* 737-600
+* 737-700
+* 737-800
+* 737-900
 * Liveries are grouped by airline for easier browsing
 
+ALSO THE AIRLINES LIST UPDATES VIA GITHUB SO NO NEED TO DOWNLOAD THE APP EVERY TIME NEW LIVERIES ARE ADDED
 ---
 
 ### ⭐ Favorites
@@ -49,8 +53,8 @@ Just select, download, and install.
 
 * Install liveries from:
 
-  * `.zip` files (requires WinRAR)
-  * `.rar` files (requires WinRAR)
+* `.zip` files (requires WinRAR or 7-Zip)
+* `.rar` files (requires WinRAR or 7-Zip)
 * `.rar` files are automatically converted and extracted
 * Liveries are placed directly into the correct aircraft folder
 
@@ -62,13 +66,13 @@ Just select, download, and install.
 * Watches a user-selected download folder
 * When a new ZIP or RAR appears:
 
-  * It is detected
-  * Extracted
-  * Installed automatically
+* It is detected
+* Extracted
+* Installed automatically
 * Status text shows:
 
-  * *“Waiting for install…”*
-  * Confirmation when install is complete
+* *“Waiting for install…”*
+* Confirmation when install is complete
 
 ---
 
@@ -84,8 +88,8 @@ Just select, download, and install.
 
 * Your selected folders are remembered:
 
-  * Download folder
-  * X-Plane aircraft folder
+* Download folder
+* X-Plane aircraft folder
 * Favorites are saved
 * Settings persist between app launches
 
@@ -120,10 +124,10 @@ Select the liveries folder (not the aircraft folder).
 
 ## 📂 Supported File Types
 
-| File Type | Supported                |
+| File Type | Supported |
 | --------- | ------------------------ |
-| `.zip`    | ✅ Yes                    |
-| `.rar`    | ✅ Yes                    |
+| `.zip` | ✅ Yes |
+| `.rar` | ✅ Yes |
 
 ---
 
