@@ -168,7 +168,7 @@ Hamburg International D-AHIA | 737-700 | Threshold | https://forum.thresholdx.ne
 Germania D-ABLB | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1633-germania-d-ablb-b737-700-levelup/
 Dutch Government PH-GOV | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1580-levelup-b737-700-dutch-government-ph-gov/
 Varig PP-VQD | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1581-737-700-varig-pp-vqd/
-BRA/CNO Braathens LN-TUH | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1649-bracno-braathens-levelup-737-ln-tuh-x-plane-11/
+BRA / CNO Braathens LN-TUH | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1649-bracno-braathens-levelup-737-ln-tuh-x-plane-11/
 Tarom Skyteam YR-BGF | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1647-tarom-skyteam-yr-bgf-for-levelup-737-700ng/
 TUI 737-700 Fleet | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1578-tui-737-700-complete-fleet-pack-for-levelup-b737-70ng/
 Air China Pink Peony Pack | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1620-air-china-pink-peony-pack/
@@ -235,4 +235,5 @@ Ryanair EI-DHS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1
 Ryanair /Boeing Hybrid EI-DCL | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1583-levelup-737-800-ryanairboeing-ei-dcl/
 Ryanair EI-DLN / ASL Belgium OE-IWB (BCF Trip) | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1675-ryanair-ei-dlnasl-belgium-oe-iwb-bcf-trip-levelup-737-8ng/
 Ryanair EI-DCH | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1340-ryanair-ei-dch-for-levelup-737-800ng/
+
 
