@@ -310,7 +310,7 @@ BRAVO 737 SECOND ANNIVERSARY | 737-700 | x-plane.to | https://x-plane.to/file/17
 BRAVO 737 HOUSE LIVERY | 737-600 | x-plane.to | https://x-plane.to/file/1754/levelup-737-600-bravo-737-house-livery
 PanAm "Clipper Zehlendorf" N68AF retro Livery | 737-800 | x-plane.to | https://x-plane.to/file/1707/panam-clipper-zehlendorf-n68af-retro-livery-for-levelup-b737-800ng
 LOT Polish Airlines old | 737-800 | x-plane.to | https://x-plane.to/file/1697/lot-polish-airlines-old-livery-for-levelup-737-800ng
-737-600 LOT Polish Airlines SP-LKA | 737-600 | x-plane.to | https://x-plane.to/file/1680/levelup-737-600-lot-polish-airlines-sp-lka
+LOT Polish Airlines SP-LKA | 737-600 | x-plane.to | https://x-plane.to/file/1680/levelup-737-600-lot-polish-airlines-sp-lka
 GOL PR-GTA CIRCA 2006 | 737-800 | x-plane.to | https://x-plane.to/file/1382/levelup-737-gol-pr-gta-circa-2006
 OK AIR | 737-900 | x-plane.to | https://x-plane.to/file/1142/levelup-ok-air-b737-900er-b-1739
 DanAir | 737-800 | x-plane.to | https://x-plane.to/file/891/danair-livery-for-737-800ng
@@ -331,3 +331,4 @@ Air Algérie 7T-VJK | 737-800 | x-plane.to | https://x-plane.to/file/26/boeing-7
 Air Algérie 7T-VJQ | 737-600 | x-plane.to | https://x-plane.to/file/25/boeing-737-6d6-air-algerie-7t-vjq-levelup
 Qantas 737-800WL Retro VH-XZP | 737-800 | x-plane.to | https://x-plane.to/file/20/qantas-737-800wl-retro-vh-xzp-for-737-800-levelup
 Sun D'Or | 737-800 | x-plane.to | https://x-plane.to/file/5/levelup-b737-800ng-sun-d-or-4k
+
