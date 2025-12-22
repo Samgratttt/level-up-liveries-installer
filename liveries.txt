@@ -101,7 +101,7 @@ SAS Scandinavian SE-DOR | 737-600 | Threshold | https://forum.thresholdx.net/fil
 WestJet Fleet Pack | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1817-westjet-737-600-fleet-pack-for-the-levelup-737ng/
 Thomsonfly Spirit of Doncaster G-THOC (Fictitious) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1807-thomsonfly-g-thoc-spirit-of-doncaster-boeing-737-600-fictitious/
 Sabena Airlines OO-SYG | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1779-sabena-airlines-livery-oo-syg-levelup-boeing-737-600/
-Garuda Indonesia/Citilink PK-GGD (Fictional Pack) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
+Garuda Indonesia / Citilink PK-GGD (Fictional Pack) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1784-garuda-indonesiacitilink-pk-ggd-fictional-pack-for-levelup-737-600/
 Boeing House Livery | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1763-boeing-house-livery-boeing-737ng-60ng-level-up/
 Air Namibia V5-NDI | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1752-60ng-air-namibia-v5-ndi/
 Centralwings | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1732-centralwings-levelup-b737-600/
@@ -287,6 +287,7 @@ Nordwind / Ukranian Hybrid VP-BDU | 737-800 | Threshold | https://forum.threshol
 Ryanair / Guinness Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1826-ryanairguinness-livery-fictional-b737-800-levelup-100/
 Alrosa Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1818-alrosa-pack-b737-800/
 Polish Air Force 0111 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1824-polish-air-force-0111-b737-800-levelup/
+
 
 
 
