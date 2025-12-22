@@ -331,6 +331,55 @@ Air Algérie 7T-VJK | 737-800 | x-plane.to | https://x-plane.to/file/26/boeing-7
 Air Algérie 7T-VJQ | 737-600 | x-plane.to | https://x-plane.to/file/25/boeing-737-6d6-air-algerie-7t-vjq-levelup
 Qantas 737-800WL Retro VH-XZP | 737-800 | x-plane.to | https://x-plane.to/file/20/qantas-737-800wl-retro-vh-xzp-for-737-800-levelup
 Sun D'Or | 737-800 | x-plane.to | https://x-plane.to/file/5/levelup-b737-800ng-sun-d-or-4k
+Oneclick 4L-TWO | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4055-oneclick-4l-two-levelup-737-81b/
+AeroRepublica Wingo HP-1536CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4042-aerorepublica-wingo-hp-1536cmp-levelup-737-800/
+Qantas VH-VZW | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4040-levelup-737-800-qantas-vh-vzw-livery-for-x-plane-1112/
+AJet AnadoluJet TC-JFT | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4003-ajet-anadolujet-tc-jft-levelup-737-8f2/
+Air Inuit C-FTUZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3904-air-inuit-c-ftuz-levelup-737-800bcf/
+Air Master Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4001-air-master-livery-pack-levelup-737-800f/
+Shandong Airlines B-5111 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3965-shandong-airlines-b-5111-levelup-737-85n-bcf/
+Alaska Airlines N565AS ToonTown | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3960-alaska-airlines-n565as-toontown-levelup-737-890w/
+Flair Airlines Fleet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3923-flair-airlines-fleet-levelup-737-86j/
+Garuda Indonesia Tahilalats PK-GUG | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3910-garuda-indonesia-tahilalats-sky-explorer-cs-pk-gug-for-levelup-737-800zibo-331/
+Garuda Indonesia Aku Cinta Indonesia PK-GUF | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3909-garuda-indonesia-aku-cinta-indonesia-cs-pk-guf-for-levelup-737-800zibo-331/
+Eastar Jet Fleet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3892-eastar-jet-fleet-package/
+China Eastern Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3881-china-eastern-pack/
+GetJet LY-TUI | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3878-getjet-ly-tui-b737-85pw-livery-for-levelup-b737-80ng/
+Sun Country Minnesota Gophers | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3875-sun-country-x-minnesota-gophers-athletics-livery-for-levelup-737-800ng/
+Air India Express VT-AXI | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3870-air-india-express-vt-axi-for-the-level-up-737-800-ng-100/
+Alaska Airlines Salmon People N559AS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3866-alaska-airlines-salmon-people-n559as-for-levelup-737-800/
+Japan Transocean Air Jinbei Jet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2112-japan-transocean-air-jinbei-jet-levelup-737-800/
+Go2Sky Fleet OM-GTF GTK GTJ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1874-go2sky-om-gtfom-gtkom-gtj-levelup-b738/
+Alaska Airlines N563AS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3851-737-800-alaska-airlines-n563as/
+Oman Air A4O-BZ | 737-900 | Threshold | https://forum.thresholdx.net/files/file/1746-oman-air-a4o-bz/
+Lion Air Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2709-lion-air-levelup-737-900er-pack/
+United Pack | 737-900 | IniBuilds | https://forum.inibuilds.com/files/file/2650-united-levelup-737-900er-pack/
+SkyUp Airlines UR-SQP | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3880-skyup-airlines-ur-sqp-levelup-737-700/
+SkyUp Airlines UR-SQA | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3871-skyup-airlines-ur-sqa-levelup-737-700/
+SkyUp Airlines UR-SQB | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3868-skyup-airlines-ur-sqb-levelup-737-700/
+SkyUp Airlines UR-SQC | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3865-skyup-airlines-ur-sqc-levelup-737-700/
+SkyUp Airlines UR-SQD | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3864-skyup-airlines-ur-sqd-levelup-737-700/
+SkyUp Airlines UR-SQE | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3863-skyup-airlines-ur-sqe-levelup-737-700/
+SkyUp Airlines UR-SQF | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3862-skyup-airlines-ur-sqf-levelup-737-700/
+SkyUp Airlines UR-SQG | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3861-skyup-airlines-ur-sqg-levelup-737-700/
+SkyUp Airlines UR-SQH | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3860-skyup-airlines-ur-sqh-levelup-737-700/
+SkyUp Airlines UR-SQI | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3859-skyup-airlines-ur-sqi-levelup-737-700/
+SkyUp Airlines UR-SQJ | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3858-skyup-airlines-ur-sqj-levelup-737-700/
+SkyUp Airlines UR-SQK | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3857-skyup-airlines-ur-sqk-levelup-737-700/
+SkyUp Airlines UR-SQL | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3856-skyup-airlines-ur-sql-levelup-737-700/
+SkyUp Airlines UR-SQM | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3855-skyup-airlines-ur-sqm-levelup-737-700/
+SkyUp Airlines UR-SQN | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3854-skyup-airlines-ur-sqn-levelup-737-700/
+SkyUp Airlines UR-SQO | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3853-skyup-airlines-ur-sqo-levelup-737-700/
+SkyUp Airlines UR-SQQ | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3852-skyup-airlines-ur-sqq-levelup-737-700/
+SkyUp Airlines UR-SQR | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3850-skyup-airlines-ur-sqr-levelup-737-700/
+SkyUp Airlines UR-SQS | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3849-skyup-airlines-ur-sqs-levelup-737-700/
+SkyUp Airlines UR-SQT | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3848-skyup-airlines-ur-sqt-levelup-737-700/
+SkyUp Airlines UR-SQU | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3847-skyup-airlines-ur-squ-levelup-737-700/
+SkyUp Airlines UR-SQV | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3846-skyup-airlines-ur-sqv-levelup-737-700/
+SkyUp Airlines UR-SQW | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3845-skyup-airlines-ur-sqw-levelup-737-700/
+SkyUp Airlines UR-SQX | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3844-skyup-airlines-ur-sqx-levelup-737-700/
+SkyUp Airlines UR-SQY | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3843-skyup-airlines-ur-sqy-levelup-737-700/
+SkyUp Airlines UR-SQZ | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3842-skyup-airlines-ur-sqz-levelup-737-700/
 
 
 
