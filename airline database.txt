@@ -548,3 +548,59 @@ AirBaltic
 AirXCharter
 Aires Colombia
 Al-Atheer
+Austrian
+BRA
+Beijing Airlines
+Braathens SAFE
+Czech Airlines
+Cabo Verde Airlines
+Camair Co
+Canjet
+Dallah Al-Baraka
+Dutch Government
+Firefly
+Fly Globespan
+Fly4
+Fuerza Aerea Colombiana
+GOL
+Garuda Indonesia
+Gazelle Airlines
+Germania
+HLX
+Hamburg International
+Israir
+Jet Airways
+Lumiwings
+Malawi Airlines
+Malindo Air
+Malév Hungarian Airlines
+My Indo Airlines
+MyWings
+NATO
+NordStar
+Northwest Airlines
+Norwegian
+OK AIR
+Papua Virtual
+Pegasus
+Philippine
+Royal Air Force
+SAAF
+Sabena Airlines
+Skyline
+SpiceXpress
+Sterling Airlines
+Tassili Airlines
+Travel Service
+Tuifly
+Turkish Airlines
+Varig
+Vietnam Airlines
+Virgin Australia
+WEBJET
+Wayfarer Airlines
+Wingo.com
+Yakutia
+
+
+
