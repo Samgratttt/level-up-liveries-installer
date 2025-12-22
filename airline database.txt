@@ -304,7 +304,7 @@ Air Vanuatu
 Centrum Air
 Hooters Air
 Aero Zambia
-TUI Airways
+TUI
 Nordic East
 Air Algérie
 RAK Airways
@@ -591,7 +591,6 @@ SpiceXpress
 Sterling Airlines
 Tassili Airlines
 Travel Service
-Tuifly
 Turkish Airlines
 Varig
 Vietnam Airlines
@@ -608,9 +607,11 @@ Indian Navy
 Indonesian Presidential Aircraft
 Polish Air Force
 Thomson Airways
-
-
-
-
-
-
+AeroRepublica
+Air New Zealand
+AirTaxi
+Air Teyvat
+Bare Metal
+PanAm
+Sideral
+Sun D'Or
