@@ -1,8 +1,8 @@
 # ⚠️ IMPORTANT – READ BEFORE USING
 
-**LVLUP737 Livery Manager requires WinRAR to be installed** in order to install `.rar` livery files.
+**LVLUP737 Livery Manager requires WinRAR to be installed** in order to install livery files.
 
-* `.zip` files work without WinRAR
+* `.zip` files **will NOT work** unless WinRAR is installed and available on your system
 * `.rar` files **will NOT work** unless WinRAR is installed and available on your system
 * WinRAR is **not included** with this application
 
