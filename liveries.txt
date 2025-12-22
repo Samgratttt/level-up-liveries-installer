@@ -384,7 +384,7 @@ KLM PH-BGA | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1292-
 KLM PH-BGM | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1294-levelup-737-700-klm-ph-bgm/
 Westjet 3 Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3899-levelup-westjet-737-800-3-pack/
 Westjet 3 Pack | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3900-levelup-westjet-737-700-3-pack/
-
+Air canada | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/78132-levelup-aircanada-737-800/
 
 
 
