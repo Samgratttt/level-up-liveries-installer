@@ -25,7 +25,7 @@ Just select, download, and install.
 
 ### 🔍 Livery Browser
 
-* Browse liveries pulled directly from an online GitHub database
+* Browse liveries pulled directly from my own online GitHub database
 * Search by airline name
 * Filter by aircraft variant:
 
