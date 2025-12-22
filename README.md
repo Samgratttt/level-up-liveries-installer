@@ -9,9 +9,7 @@
 👉 Download WinRAR:
 https://www.win-rar.com/download.html?&L=0
 
-👉 Download 7-Zip:
-
-https://www.7-zip.org/download.html
+👉 Download 7-Zip: https://www.7-zip.org/download.html
 ---
 
 # ✈️ LVLUP737 Livery Manager
