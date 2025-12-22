@@ -511,7 +511,7 @@ Porter Airlines
 Lynx Air
 Condor
 Eurowings
-TUI fly
+TUI
 easyJet
 Wizz Air
 Volotea
@@ -617,5 +617,6 @@ Sideral
 Sun D'Or
 Ajet
 Oneclick
+
 
 
