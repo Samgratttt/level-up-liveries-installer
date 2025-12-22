@@ -49,7 +49,7 @@ Just select, download, and install.
 
 * Install liveries from:
 
-  * `.zip` files
+  * `.zip` files (requires WinRAR)
   * `.rar` files (requires WinRAR)
 * `.rar` files are automatically converted and extracted
 * Liveries are placed directly into the correct aircraft folder
