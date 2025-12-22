@@ -572,7 +572,7 @@ Jet Airways
 Lumiwings
 Malawi Airlines
 Malindo Air
-Malév Hungarian Airlines
+Malév
 My Indo Airlines
 MyWings
 NATO
@@ -600,7 +600,6 @@ WEBJET
 Wayfarer Airlines
 Wingo.com
 Yakutia
-Malev
 Amazon Prime
 9Air
 Blue Bird
@@ -609,6 +608,7 @@ Indian Navy
 Indonesian Presidential Aircraft
 Polish Air Force
 Thomson Airways
+
 
 
 
