@@ -75,7 +75,7 @@ Just select, download, and install.
 ### 🔄 Refresh Database
 
 * Refresh the livery list without restarting the app
-* Pulls the latest data from GitHub
+* Pulls the latest data from GitHub (can take a few minutes after updating dw)
 * No need to update or reinstall the app when new liveries are added
 
 ---
