@@ -304,7 +304,7 @@ Air Vanuatu
 Centrum Air
 Hooters Air
 Aero Zambia
-TUI
+Tuifly
 Nordic East
 Air Algérie
 RAK Airways
@@ -615,3 +615,5 @@ Bare Metal
 PanAm
 Sideral
 Sun D'Or
+Ajet
+
