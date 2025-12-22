@@ -7,7 +7,7 @@
 * WinRAR is **not included** with this application
 
 👉 Download WinRAR:
-[https://www.rarlab.com](https://www.rarlab.com)
+[https://www.rarlab.com]([https://www.rarlab.com](https://www.win-rar.com/download.html?&L=0))
 
 ---
 
