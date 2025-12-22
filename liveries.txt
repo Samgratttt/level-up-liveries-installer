@@ -287,7 +287,47 @@ Nordwind / Ukranian Hybrid VP-BDU | 737-800 | Threshold | https://forum.threshol
 Ryanair / Guinness Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1826-ryanairguinness-livery-fictional-b737-800-levelup-100/
 Alrosa Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1818-alrosa-pack-b737-800/
 Polish Air Force 0111 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1824-polish-air-force-0111-b737-800-levelup/
-
-
-
-
+Turkmenistan Airlines EZ-A020 | 737-800 | x-plane.to | https://x-plane.to/file/2004/turkmenistan-airlines-level-up-70ng-80ng
+Turkmenistan Airlines EZ-A009 | 737-700 | x-plane.to | https://x-plane.to/file/2004/turkmenistan-airlines-level-up-70ng-80ng
+Sideral PR-SLA | 737-800 | x-plane.to | https://x-plane.to/file/1996/sideral-pr-sla-level-up-737-800ng
+Aeroflot SkyTeam Livery | 737-800 | x-plane.to | https://x-plane.to/file/1990/aeroflot-skyteam-livery-levelup-737ng
+AirTaxi airseven Copenhagen OY-ASG | 737-800 | x-plane.to | https://x-plane.to/file/1964/airtaxi-airseven-copenhagen-oy-asg-for-levelup-737-80ng
+Transavia PH-HZX SkyTeam Fictional | 737-800 | x-plane.to | https://x-plane.to/file/1963/transavia-ph-hzx-skyteam-fictional
+YAKUTIA RA-73260 | 737-800 | x-plane.to | https://x-plane.to/file/1956/yakutia-4k-ra-73260-levelup-b737-800ng
+Southwest - Maryland One | 737-700 | x-plane.to | https://x-plane.to/file/1938/southwest-heart-737-700-ultimate-levelup
+Qantas VH-VZW | 737-800 | x-plane.to | https://x-plane.to/file/1933/levelup-737-800-qantas-vh-vzw-livery-for-x-plane-11-12
+AeroRepublica Wingo HP-1536CMP | 737-800 | x-plane.to | https://x-plane.to/file/1932/aerorepublica-wingo-hp-1536cmp-levelup-737-800
+ETF Airways 9A-ABC | 737-800 | x-plane.to | https://x-plane.to/file/1931/levelup-737-800-etf-airways-9a-abc
+Yakutia Airlines | 737-800 | x-plane.to | https://x-plane.to/file/1863/levelup-737-800-yakutia-airlines-pack
+Nova Airlines Fleet | 737-800 | x-plane.to | https://x-plane.to/file/1841/levelup-737-800-nova-airlines-fleet-xp-11-12
+SMARTAVIA RA-73659 | 737-800 | x-plane.to | https://x-plane.to/file/1843/smartavia-ra-73659-level-up-737-800
+Pacific Southwest Airlines N988SP | 737-800 | x-plane.to | https://x-plane.to/file/1830/pacific-southwest-airlines-n988sp-world-s-friendliest-airline
+RYANAIR G-RUKB | 737-800 | x-plane.to | https://x-plane.to/file/1644/ryanair-g-rukb
+Southwest - Heart | 737-700 | x-plane.to | https://x-plane.to/file/796/southwest-heart-737-700-ultimate-levelup
+Southwest - Canyon Blue | 737-700 | x-plane.to | https://x-plane.to/file/794/southwest-canyon-blue-737-700-ultimate-levelup
+BRAVO 737 SECOND ANNIVERSARY | 737-900 | x-plane.to | https://x-plane.to/file/1757/bravo-737-second-anniversary-livery-for-the-level-up-737-900
+BRAVO 737 SECOND ANNIVERSARY | 737-700 | x-plane.to | https://x-plane.to/file/1756/bravo-737-second-anniversary-livery-for-the-level-up-737-700
+BRAVO 737 HOUSE LIVERY | 737-600 | x-plane.to | https://x-plane.to/file/1754/levelup-737-600-bravo-737-house-livery
+PanAm "Clipper Zehlendorf" N68AF retro Livery | 737-800 | x-plane.to | https://x-plane.to/file/1707/panam-clipper-zehlendorf-n68af-retro-livery-for-levelup-b737-800ng
+LOT Polish Airlines old | 737-800 | x-plane.to | https://x-plane.to/file/1697/lot-polish-airlines-old-livery-for-levelup-737-800ng
+737-600 LOT Polish Airlines SP-LKA | 737-600 | x-plane.to | https://x-plane.to/file/1680/levelup-737-600-lot-polish-airlines-sp-lka
+GOL PR-GTA CIRCA 2006 | 737-800 | x-plane.to | https://x-plane.to/file/1382/levelup-737-gol-pr-gta-circa-2006
+OK AIR | 737-900 | x-plane.to | https://x-plane.to/file/1142/levelup-ok-air-b737-900er-b-1739
+DanAir | 737-800 | x-plane.to | https://x-plane.to/file/891/danair-livery-for-737-800ng
+Bare Metal | 737-600 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
+Bare Metal | 737-700 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
+Bare Metal | 737-800 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
+Bare Metal | 737-900 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
+ParcelAir Fictional | 737-800 | x-plane.to | https://x-plane.to/file/400/parcelair-fictional-zk-pak-levelup-737-800
+Air New Zealand Fictional | 737-700 | x-plane.to | https://x-plane.to/file/399/air-new-zealand-fictional-zk-ngj-levelup-737-700
+TUI Netherlands SunWing Hybrid | 737-800 | x-plane.to | https://x-plane.to/file/328/tui-netherlands-sunwing-hybrid-c-ffph-levelup-737-800
+Pike air | 737-800 | x-plane.to | https://x-plane.to/file/170/level-up-737-800
+Air Algérie 7T-VKM 25th | 737-800 | x-plane.to | https://x-plane.to/file/37/boeing-737-8d6-air-algerie-7t-vkm-25th-levelup
+Air Algérie 7T-VKS Combi | 737-700 | x-plane.to | https://x-plane.to/file/36/boeing-737-7d6-air-algerie-7t-vks-combi-levelup
+Air Algérie 7T-VJJ Freighter | 737-800 | x-plane.to | https://x-plane.to/file/35/boeing-737-8d6-air-algerie-7t-vjj-freighter-levelup
+Canadian North 737-700WL New Colors | 737-700 | x-plane.to | https://x-plane.to/file/33/canadian-north-737-700wl-new-colors-for-737-700-levelup
+Tassili Airlines 7T-VCE | 737-800 | x-plane.to | https://x-plane.to/file/27/boeing-737-8zq-tassili-airlines-7t-vce-levelup
+Air Algérie 7T-VJK | 737-800 | x-plane.to | https://x-plane.to/file/26/boeing-737-8d6-air-algerie-7t-vjk-levelup
+Air Algérie 7T-VJQ | 737-600 | x-plane.to | https://x-plane.to/file/25/boeing-737-6d6-air-algerie-7t-vjq-levelup
+Qantas 737-800WL Retro VH-XZP | 737-800 | x-plane.to | https://x-plane.to/file/20/qantas-737-800wl-retro-vh-xzp-for-737-800-levelup
+Sun D'Or | 737-800 | x-plane.to | https://x-plane.to/file/5/levelup-b737-800ng-sun-d-or-4k
