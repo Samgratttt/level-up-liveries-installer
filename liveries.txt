@@ -380,6 +380,10 @@ SkyUp Airlines UR-SQW | 737-700 | Threshold | https://forum.thresholdx.net/files
 SkyUp Airlines UR-SQX | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3844-skyup-airlines-ur-sqx-levelup-737-700/
 SkyUp Airlines UR-SQY | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3843-skyup-airlines-ur-sqy-levelup-737-700/
 SkyUp Airlines UR-SQZ | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3842-skyup-airlines-ur-sqz-levelup-737-700/
+KLM PH-BGA | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1292-levelup-737-800-klm-ph-bga/
+KLM PH-BGM | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1294-levelup-737-700-klm-ph-bgm/
+Westjet 3 Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3899-levelup-westjet-737-800-3-pack/
+Westjet 3 Pack | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3900-levelup-westjet-737-700-3-pack/
 
 
 
