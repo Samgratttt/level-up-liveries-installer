@@ -22,7 +22,6 @@ American Airlines (Fictional) N943NN | 737-700 | Threshold | https://forum.thres
 Aires Colombia HK-4660 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2293-hk-4660-boeing-737-700-aires-colombia-for-level-up-737ng/
 Turkish Airlines Old & New TC-JKO | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2253-turkish-airlines-old-new-tc-jko-levelup-737-700/
 Bahamasair Retro C6-BDP | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2239-bahamasair-c6-bdp/
-Turkmenistan EZ-A009 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2149-turkmenistan-ez-a009-levelup-b737-700/
 Alrosa RA-73268 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2146-alrosa-ra-73268-levelup-b737-700/
 Copa Airlines HP-1524CMP | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2708-copa-airlines-levelup-737-700-hp-1524cmp/
 United Evo Blue (N24706, N21723) | 737-700 | IniBuilds | https://forum.inibuilds.com/files/file/2642-united-levelup-737-700-evo-blue-n24706-n21723/
@@ -296,7 +295,6 @@ Transavia PH-HZX SkyTeam Fictional | 737-800 | x-plane.to | https://x-plane.to/f
 YAKUTIA RA-73260 | 737-800 | x-plane.to | https://x-plane.to/file/1956/yakutia-4k-ra-73260-levelup-b737-800ng
 Southwest - Maryland One | 737-700 | x-plane.to | https://x-plane.to/file/1938/southwest-heart-737-700-ultimate-levelup
 Qantas VH-VZW | 737-800 | x-plane.to | https://x-plane.to/file/1933/levelup-737-800-qantas-vh-vzw-livery-for-x-plane-11-12
-AeroRepublica Wingo HP-1536CMP | 737-800 | x-plane.to | https://x-plane.to/file/1932/aerorepublica-wingo-hp-1536cmp-levelup-737-800
 ETF Airways 9A-ABC | 737-800 | x-plane.to | https://x-plane.to/file/1931/levelup-737-800-etf-airways-9a-abc
 Yakutia Airlines | 737-800 | x-plane.to | https://x-plane.to/file/1863/levelup-737-800-yakutia-airlines-pack
 Nova Airlines Fleet | 737-800 | x-plane.to | https://x-plane.to/file/1841/levelup-737-800-nova-airlines-fleet-xp-11-12
@@ -312,8 +310,6 @@ PanAm "Clipper Zehlendorf" N68AF retro Livery | 737-800 | x-plane.to | https://x
 LOT Polish Airlines old | 737-800 | x-plane.to | https://x-plane.to/file/1697/lot-polish-airlines-old-livery-for-levelup-737-800ng
 LOT Polish Airlines SP-LKA | 737-600 | x-plane.to | https://x-plane.to/file/1680/levelup-737-600-lot-polish-airlines-sp-lka
 GOL PR-GTA CIRCA 2006 | 737-800 | x-plane.to | https://x-plane.to/file/1382/levelup-737-gol-pr-gta-circa-2006
-OK AIR | 737-900 | x-plane.to | https://x-plane.to/file/1142/levelup-ok-air-b737-900er-b-1739
-DanAir | 737-800 | x-plane.to | https://x-plane.to/file/891/danair-livery-for-737-800ng
 Bare Metal | 737-600 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
 Bare Metal | 737-700 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
 Bare Metal | 737-800 | x-plane.to | https://x-plane.to/file/495/bare-metal-b737ng-series
@@ -385,6 +381,7 @@ KLM PH-BGM | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1294-
 Westjet 3 Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/3899-levelup-westjet-737-800-3-pack/
 Westjet 3 Pack | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3900-levelup-westjet-737-700-3-pack/
 Air canada | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/78132-levelup-aircanada-737-800/
+
 
 
 
