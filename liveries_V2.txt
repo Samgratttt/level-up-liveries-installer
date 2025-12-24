@@ -1,4 +1,4 @@
-Name | Variant | Site | URL
+Name | Variant | Threshold | URL
 Janet N288DB | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4096-janet-737-600-n288db/
 WestJet C-GWSB | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4095-westjet-737-600-c-gwsb/
 TAAG Old Livery D2-TBG | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4099-taag-old-livery-d2-tbg-level-up-737-700-8k-for-v2/
@@ -15,3 +15,4 @@ Virgin Australia Mega Pack 9 -700 variants | 737-700 | Threshold | https://forum
 Virgin Australia Mega Pack 12 -800 variants | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4094-virgin-australia-mega-pack-b737-b738/
 Avelo Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4103-avelo-b738-livery-pack/
 Avelo Pack | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4104-avelo-b737-livery-pack/
+Garuda Indonesia Fleet Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4105-garuda-indonesia-new-fleet-pack-for-levelup-737-800ng-v2/
