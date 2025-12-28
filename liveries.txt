@@ -294,7 +294,6 @@ AirTaxi airseven Copenhagen OY-ASG | 737-800 | x-plane.to | https://x-plane.to/f
 Transavia PH-HZX SkyTeam Fictional | 737-800 | x-plane.to | https://x-plane.to/file/1963/transavia-ph-hzx-skyteam-fictional
 YAKUTIA RA-73260 | 737-800 | x-plane.to | https://x-plane.to/file/1956/yakutia-4k-ra-73260-levelup-b737-800ng
 Southwest - Maryland One | 737-700 | x-plane.to | https://x-plane.to/file/1938/southwest-heart-737-700-ultimate-levelup
-Qantas VH-VZW | 737-800 | x-plane.to | https://x-plane.to/file/1933/levelup-737-800-qantas-vh-vzw-livery-for-x-plane-11-12
 ETF Airways 9A-ABC | 737-800 | x-plane.to | https://x-plane.to/file/1931/levelup-737-800-etf-airways-9a-abc
 Yakutia Airlines | 737-800 | x-plane.to | https://x-plane.to/file/1863/levelup-737-800-yakutia-airlines-pack
 Nova Airlines Fleet | 737-800 | x-plane.to | https://x-plane.to/file/1841/levelup-737-800-nova-airlines-fleet-xp-11-12
@@ -318,9 +317,6 @@ ParcelAir Fictional | 737-800 | x-plane.to | https://x-plane.to/file/400/parcela
 Air New Zealand Fictional | 737-700 | x-plane.to | https://x-plane.to/file/399/air-new-zealand-fictional-zk-ngj-levelup-737-700
 TUI Netherlands SunWing Hybrid | 737-800 | x-plane.to | https://x-plane.to/file/328/tui-netherlands-sunwing-hybrid-c-ffph-levelup-737-800
 Pike air | 737-800 | x-plane.to | https://x-plane.to/file/170/level-up-737-800
-Air Algérie 7T-VKM 25th | 737-800 | x-plane.to | https://x-plane.to/file/37/boeing-737-8d6-air-algerie-7t-vkm-25th-levelup
-Air Algérie 7T-VKS Combi | 737-700 | x-plane.to | https://x-plane.to/file/36/boeing-737-7d6-air-algerie-7t-vks-combi-levelup
-Air Algérie 7T-VJJ Freighter | 737-800 | x-plane.to | https://x-plane.to/file/35/boeing-737-8d6-air-algerie-7t-vjj-freighter-levelup
 Canadian North 737-700WL New Colors | 737-700 | x-plane.to | https://x-plane.to/file/33/canadian-north-737-700wl-new-colors-for-737-700-levelup
 Tassili Airlines 7T-VCE | 737-800 | x-plane.to | https://x-plane.to/file/27/boeing-737-8zq-tassili-airlines-7t-vce-levelup
 Air Algérie 7T-VJK | 737-800 | x-plane.to | https://x-plane.to/file/26/boeing-737-8d6-air-algerie-7t-vjk-levelup
@@ -469,6 +465,12 @@ United Arab Emirates A6-MRM | 737-800 | Threshold | https://forum.thresholdx.net
 Sky Airlines TC-SKH | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2270-sky-airlines-tc-skh-levelup-737-800/
 AeroItalia Fleet Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2059-aeroitalia-fleet-pack-levelup-737-800/
 Icelandair Hekla Aurora | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2121-levelup-737-800ng-icelandair-hekla-aurora-livery/
+Southwest Freedom One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2107-80ng-southwest-airlines-freedom-one-b737-8h4/
+Qantas Retro VH-XZP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1766-qantas-737-800wl-retro-vh-xzp-for-737-800-levelup/
+Ukraine International Airlines | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1863-levelup-737-800-ukraine-international-airlines-flyuia/
+Caribbean Airlines 9Y-SXM | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2043-level-up-boeing-737-800-caribbean-airlines-9y-sxm/
+Aeromexico fleet pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2035-aeromexico-fleet-pack-738ng/
+Wingo Airlines | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1984-80ng-wingo-airlines-737-80ng-800-series/
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
@@ -493,9 +495,4 @@ Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
+
