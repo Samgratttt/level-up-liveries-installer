@@ -92,7 +92,7 @@ SCAT Airlines UP-63718 (Real 737-300) | 737-600 | Threshold | https://forum.thre
 Wayfarer Airlines (Fictional) | 737-600 | Threshold | https://forum.thresholdx.net/files/file/2241-levelup-737-600-wayfarer-airlines-fictional/
 Air Algérie 7T-VJQ | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1416-boeing-737-6d6-air-alg%C3%A9rie-7t-vjq-levelup/
 AeroFlyer C-GKFP | 737-600 | Threshold | https://forum.thresholdx.net/files/file/2065-aeroflyer-c-gkfp-levelup-737-600/
-Wingo.com | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1957-60ng-wingocom-levelup-737-600-livery/
+Wingo | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1957-60ng-wingocom-levelup-737-600-livery/
 Malév Hungarian Airlines HA-LOF | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1960-ha-lof-mal%C3%A9v-hungarian-airlines-boeing-737-600/
 Jet2 LeedsBradford | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1929-60ng-jet2-levelup-737-600-leedsbradford-livery/
 Jet2 Metallic LeedsBradford | 737-600 | Threshold | https://forum.thresholdx.net/files/file/1928-60ng-jet2-metallic-levelup-737-600-leedsbradford-livery/
@@ -424,7 +424,7 @@ Lufthansa | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1485-l
 Smartwings OK-SWW | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1453-smartwings-ok-sww-b737-700-levelup/
 SAS SE-RJX | 737-700 | Threshold | https://forum.thresholdx.net/files/file/796-levelup-737-700wl-scandinavian-airlines-se-rjx-new-livery/
 AVIOLET YU-AND | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1451-aviolet-yu-and-737-70ng-levelup/
-N737LE Private BBJ | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1423-n737le-private-bbj-level-up-737-700/
+BBJ N737LE Private | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1423-n737le-private-bbj-level-up-737-700/
 WestJet C-FIBW  | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1390-westjet-c-fibw-b737-7ctwlng-levelup/
 China Southern B-5070 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1412-china-southern-b-5070/
 Indian air force K5014 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1396-indian-air-force-k5014-rajkamal-livery-for-the-levelup-737-700ng/
@@ -498,14 +498,14 @@ Caribbean Airlines 9Y-TAB | 737-800 | Threshold | https://forum.thresholdx.net/f
 Airberlin Old | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1778-airberlin-old-boeing-737-800-levelup/
 Virgin Blue | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1758-virgin-blue-boeing-737ng-80ng-level-up/
 Qantas 2018 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1757-qantas-2018-boeing-737ng-80ng-level-up/
-Prime Air N7933A | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1751-prime-air-boeing-737ng-80ng-level-up/
+Amazon Prime Air N7933A | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1751-prime-air-boeing-737ng-80ng-level-up/
 Boeing House Ryanair | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1731-ryanair-boeing-house-boeing-737ng-80ng-level-up/
 Swiftair | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1730-swiftair-boeing-737ng-80ng-level-up/
 Guinness livery Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1762-guinness-livery-fictional-b737-700-levelup-100/
 Amazon Prime N5227A | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1459-n5227a-atlas-air-amazon-prime-air-for-levelup-737-800/
 Amazon Prime N5167A | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1432-amazon-prime-air-operated-by-atlas-air-levelup-737-800-n5167a/
 germanjet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1759-germanjet-b737-800ng-official-livery/
-Jet2.com G-DRTE | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1670-jet2com-g-drte-for-levelup-737-800ng/
+Jet2 G-DRTE | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1670-jet2com-g-drte-for-levelup-737-800ng/
 ASL Airlines Package | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1753-asl-airlines-package-boeing-737-800-levelup/
 TUI D-ABAF and D-ABBD | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1749-tuifly-d-abaf-and-d-abbd-b737-800-levelup/
 Fedex Package | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1745-fedex-package-b737-800-levelup/
@@ -547,7 +547,7 @@ GOL PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1671-go
 Royal Air Maroc Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1666-royal-air-maroc-pack-boeing-737-800-levelup/
 Yorkshire airlines FICTIONAL | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1468-fictional-yorkshire-airlines-737-800ng-created-by-clipsaviation/
 TUI PH-TFA and PH-TFF | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1449-tui-netherlands-ph-tfa-and-ph-tff/
-https://forum.thresholdx.net/files/file/1663-80ng-british-airways-comair-zs-zwu/ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1663-80ng-british-airways-comair-zs-zwu/
+British Airways Comair ZS-ZWU | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1663-80ng-british-airways-comair-zs-zwu/
 Austrian OE-LNR | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1662-austrian-oe-lnr-b737-800-levelup/
 ANA Star Alliance JA51AN | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1660-levelup-b737-800ng-all-nippon-airways-star-alliance-ja51an/
 Austrian Airlines | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1655-austrian-airlines-levelup-b737-800/
@@ -612,6 +612,7 @@ Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
+
 
 
 
