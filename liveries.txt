@@ -380,7 +380,7 @@ Air canada | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/78132
 Southwest Airlines N944WN Shark Week | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2132-southwest-airlines-n944wn-shark-week-2017-b737-7h4/
 Southwest Airlines N715SW Shamu | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2131-southwest-airlines-n715sw-shamu-b737-7h4/
 Southwest Airlines Missouri One | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2108-70ng-southwest-airlines-missouri-one-b737-7h4/
-Wingo.com | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1983-70ng-wingocom-levelup-737-700-livery/
+Wingo | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1983-70ng-wingocom-levelup-737-700-livery/
 AirTran | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1979-airtran-737-700/
 BBJ PR-BBS Grupo Safra Private  | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1958-70ng-pr-bbs-grupo-safra-private-bbj-level-up-737-700/
 BBJ VP-BVV | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1893-level-up-737-700-bbj-vp-bvv/
@@ -612,6 +612,7 @@ Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
+
 
 
 
