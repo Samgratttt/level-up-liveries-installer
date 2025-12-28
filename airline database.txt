@@ -446,7 +446,6 @@ Orenair
 Aviolet
 Max Air
 Jin Air
-WestJet
 Pro Air
 Bmibaby
 NAM Air
@@ -535,7 +534,6 @@ Air Serbia
 Boeing House Colors
 Boeing House Livery
 Boeing House
-Westjet
 ANA
 Ana
 ana
@@ -620,6 +618,7 @@ Oneclick
 BBJ
 Citilink
 TAAG
+
 
 
 
