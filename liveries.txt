@@ -423,7 +423,7 @@ SAS LN-RNU | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1498-
 Royal Australian Air Force | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1535-royal-australian-air-force-levelup-737-700/
 Malev Hungarian Airlines HA-LOA | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1480-malev-hungarian-airlines-levelup-b737-700-ha-loa/
 Aloha Airlines N751AL | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1492-aloha-airlines-n751al-level-up-737/
-All Nippon Airways JA01AN | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1491-all-nippon-airways-ja01an-livery-por-level-up-737ng/
+ANA JA01AN | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1491-all-nippon-airways-ja01an-livery-por-level-up-737ng/
 Lufthansa | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1485-lufthansa-levelup-737ng-b737-700/
 Smartwings OK-SWW | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1453-smartwings-ok-sww-b737-700-levelup/
 Scandinavian Airlines SE-RJX | 737-700 | Threshold | https://forum.thresholdx.net/files/file/796-levelup-737-700wl-scandinavian-airlines-se-rjx-new-livery/
@@ -499,5 +499,6 @@ Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
+
 
 
