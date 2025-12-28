@@ -467,6 +467,8 @@ Garuda Indonesia Livin' by Mandiri | 737-800 | Threshold | https://forum.thresho
 Garuda Indonesia Livery Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1719-garuda-indonesia-livery-pack-for-levelup-737-800/
 United Arab Emirates A6-MRM | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2271-levelup-737-800-dubai-air-wing-united-arab-emirates-a6-mrm/
 Sky Airlines TC-SKH | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2270-sky-airlines-tc-skh-levelup-737-800/
+AeroItalia Fleet Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2059-aeroitalia-fleet-pack-levelup-737-800/
+Icelandair Hekla Aurora | 737-800 | Threshold | https://forum.thresholdx.net/files/file/2121-levelup-737-800ng-icelandair-hekla-aurora-livery/
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
@@ -497,6 +499,5 @@ Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
 Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
-Name | 737-800 | Threshold | URL
+
 
