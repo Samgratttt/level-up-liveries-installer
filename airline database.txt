@@ -622,6 +622,7 @@ Westjet
 United Arab Emirates
 Blue Air
 Indian air force
+USAF
 
 
 
