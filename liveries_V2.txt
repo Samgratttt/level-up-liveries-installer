@@ -23,3 +23,5 @@ Alaska Airlines PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/
 United Airlines N34222 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4111-united-airlines-n34222-in-8k-for-v2/
 American Airlines PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4110-american-airlines-pack-in-8k-for-v2/
 Alaska Airlines PACK | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4113-alaska-airlines-pack-in-8k-for-v2/
+AnadoluJet TC-JFT | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/96233-ajet-anadolujet-tc-jft-levelup-v2-737-8f2/
+SmartWings OK-TVG | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/96587-smartwings-ok-tvg-levelup-v2-737-8q8/
