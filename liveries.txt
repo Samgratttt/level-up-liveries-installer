@@ -143,7 +143,7 @@ Malawi Airlines ET-ARB | 737-700 | Threshold | https://forum.thresholdx.net/file
 Air Algerie 7T-VKS Combi | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1559-boeing-737-7d6-air-alg%C3%A9rie-7t-vks-combi-levelup/
 Lucky Air B-5805 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2016-level-upb737-700hh-lucky-air-b-5805/
 AirXCharter 9H-ELF | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2066-airxcharter-9h-elf-levelup-737-700/
-TUID-AHXA Yellow | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1677-tuifly-d-ahxa-yellow-b737-700-levelup/
+TUI D-AHXA Yellow | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1677-tuifly-d-ahxa-yellow-b737-700-levelup/
 SkyUp UR-SQD | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1765-levelup-737-700-skyup-airlines-ur-sqd/
 Camair Co TJ-QCB | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1891-camair-co-tj-qcb-b737-700ng-levelup/
 Royal Air Maroc Fleet | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1641-royal-air-maroc-whole-fleet-b737-700-level-up/
@@ -473,7 +473,7 @@ Wingo Airlines | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1
 WFX D-AWUA | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1942-wfx-b737-800-bw-d-awua-p3d-pmdg/
 Thai Lion Airways HS-LUV | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1908-levelup-737-800-thai-lion-airways-hs-luv/
 P-8A Poseidon | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1896-80ng-p-8a-poseidon-vp-8-flying-tigers-168760/
-New Icelandair livery fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1872-new-icelandair-look-for-737-800ng-fictional/
+Icelandair New livery fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1872-new-icelandair-look-for-737-800ng-fictional/
 Sriwijaya Air Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1801-sriwijaya-air-multi-registration-pack-for-levelup-737-800/
 McLaren Formula 1 livery Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1860-mclaren-formula-1-livery-fictional-b737-800-levelup-100/
 FSX Legacy Airlines Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1862-fsx-legacy-airlines-pack-for-levelup-737-800/
@@ -684,3 +684,4 @@ Southwest New Mexico One | 737-800 | x-plane.to | https://x-plane.to/file/919/so
 Southwest Lone Star One | 737-800 | x-plane.to | https://x-plane.to/file/1468/southwest-lone-star-one-737-800-zibo-levelup
 Southwest Triple Crown One | 737-800 | x-plane.to | https://x-plane.to/file/1477/southwest-triple-crown-one-737-800-zibo-levelup
 Southwest Imua Two | 737-800 | x-plane.to | https://x-plane.to/file/1355/southwest-imua-two-737-800-zibo-levelup-fictional
+
