@@ -527,7 +527,7 @@ Finnair
 TAP Air Portugal
 Azores Airlines
 Air Baltic
-LOT Polish Airlines
+LOT
 Czech Airlines
 Air Serbia
 Boeing House
@@ -640,3 +640,13 @@ Olimpic Air
 Prime air
 SATA
 WFX
+Bluebird Airways
+Boriken Airways
+Cargo Air
+Corendon
+Enterair
+Hapag-Lloyd
+Jettime
+PMDG
+Regional Express
+Singapore Airlines
