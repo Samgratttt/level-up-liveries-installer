@@ -507,7 +507,7 @@ germanjet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1759-g
 Jet2 G-DRTE | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1670-jet2com-g-drte-for-levelup-737-800ng/
 ASL Airlines Package | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1753-asl-airlines-package-boeing-737-800-levelup/
 TUI D-ABAF and D-ABBD | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1749-tuifly-d-abaf-and-d-abbd-b737-800-levelup/
-Fedex Package | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1745-fedex-package-b737-800-levelup/
+FedEx Package | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1745-fedex-package-b737-800-levelup/
 T'Way PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1743-tway-pack/
 Fly Gangwon | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1742-fly-gangwon-b737-800-livery-for-level-up-b737ng/
 Aegean Neo | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1736-aegean-neo-levelup-737ng-series/
@@ -584,7 +584,7 @@ Boriken Airways Fleet Pack | 737-800 | Threshold | https://forum.thresholdx.net/
 Norwegian Air Shuttle EI-FVU | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1588-levelup-737-800-norwegian-air-shuttle-ei-fvu/
 HLX D-AHFO | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1586-hlx-d-ahfo-b737-800-levelup/
 Malaysia Airlines 9M-FFF | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1574-malaysia-airlines-9m-fff-b737-800-levelup/
-FedEx Express European Operators Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1582-fedex-express-european-operators-pack-levelup-737-8ng/
+FedEx European Operators Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1582-fedex-express-european-operators-pack-levelup-737-8ng/
 Sun Country Airlines TidePod 3-Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1495-80ng-sun-country-airlines-tidepod-3-pack/
 Swiss | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1575-level-up-737-800-swiss-swr/
 South African ZS-SJS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/1573-80ng-south-african-zs-sjs/
@@ -684,4 +684,5 @@ Southwest New Mexico One | 737-800 | x-plane.to | https://x-plane.to/file/919/so
 Southwest Lone Star One | 737-800 | x-plane.to | https://x-plane.to/file/1468/southwest-lone-star-one-737-800-zibo-levelup
 Southwest Triple Crown One | 737-800 | x-plane.to | https://x-plane.to/file/1477/southwest-triple-crown-one-737-800-zibo-levelup
 Southwest Imua Two | 737-800 | x-plane.to | https://x-plane.to/file/1355/southwest-imua-two-737-800-zibo-levelup-fictional
+
 
