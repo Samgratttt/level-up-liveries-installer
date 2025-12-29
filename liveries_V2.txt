@@ -27,3 +27,5 @@ AnadoluJet TC-JFT | 737-800 | X-plane.org | https://forums.x-plane.org/files/fil
 SmartWings OK-TVG | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/96587-smartwings-ok-tvg-levelup-v2-737-8q8/
 United Airlines N15751 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4118-united-airlines-n15751-in-8k-for-v2/
 SAS SE-DOR 2017 | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4117-b736-sas-se-dor-2017/
+Southwest Airlines Heart livery N266WN | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4123-southwest-airlines-heart-livery-n266wn-in-8k-for-v2/
+Southwest Airlines Heart livery N8612K | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4124-southwest-airlines-heart-livery-n8612k-in-8k-for-v2/
