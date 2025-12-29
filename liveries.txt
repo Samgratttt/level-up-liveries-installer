@@ -1,4 +1,3 @@
-Livery Name | Variant | Site | URL
 Papua Virtual Airlines PK-PVD | 737-700 | Threshold | https://forum.thresholdx.net/files/file/2462-papua-pk-pvd-70ng/
 Royal Air Force E-7 Wedgetail WT001 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3999-levelup-737-700-raf-boeing-e-7-wedgetail-wt001/
 Northwest Airlines (Fictional 2003 Livery) | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3957-northwest-airlines-nwa-levelup-737-700/
@@ -685,14 +684,3 @@ Southwest New Mexico One | 737-800 | x-plane.to | https://x-plane.to/file/919/so
 Southwest Lone Star One | 737-800 | x-plane.to | https://x-plane.to/file/1468/southwest-lone-star-one-737-800-zibo-levelup
 Southwest Triple Crown One | 737-800 | x-plane.to | https://x-plane.to/file/1477/southwest-triple-crown-one-737-800-zibo-levelup
 Southwest Imua Two | 737-800 | x-plane.to | https://x-plane.to/file/1355/southwest-imua-two-737-800-zibo-levelup-fictional
-Name | 737-800 | x-plane.to | URL
-Name | 737-800 | x-plane.to | URL
-
-
-
-
-
-
-
-
-
