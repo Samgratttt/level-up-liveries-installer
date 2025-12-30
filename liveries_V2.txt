@@ -33,3 +33,5 @@ SAS Fleetpack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/41
 SAS Fleetpack | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4119-b737-600-700-800-sas-fleetpack/
 SAS Fleetpack | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4119-b737-600-700-800-sas-fleetpack/
 Boeing House Livery N1791B | 737-700 | Threshold | https://forum.thresholdx.net/files/file/1716-boeing-house-livery-boeing-737ng-70ng-level-up/
+Japan Airlines PACK 2 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4126-levelup-737-v2-japan-airlines-liveries/
+Japan Airlines PACK 2 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4126-levelup-737-v2-japan-airlines-liveries/
