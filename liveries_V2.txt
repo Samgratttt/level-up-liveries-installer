@@ -43,3 +43,5 @@ Wingo Airlines HP-1713CMP | 737-800 | Threshold | https://forum.thresholdx.net/f
 Royal Air Maroc CN-RNZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4129-levelup-737-800ng-v2-royal-air-maroc-cn-rnz-8k/
 Copa Airlines HP-1850CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4130-80ngv2-copa-airlines-hp-1850cmp-8k/
 Wingo HP-1713CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4131-wingo-airlines-boeing-737-800-v2-hp-1713cmp-8k/
+BBJ N737LE | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98076-n737le-bbj-levelup-737v2/
+China Eastern B-207X | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98067-china-eastern-airlines-levelup-b737-800ng-b-207x/
