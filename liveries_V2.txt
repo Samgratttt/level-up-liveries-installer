@@ -41,3 +41,5 @@ S7 Airlines One World RA-73664 | 737-800 | X-plane.org | https://forums.x-plane.
 Sky Express Greece fictional | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98063-levelup-737-800-v2-sky-express-greece-fictional-xp12/
 Wingo Airlines HP-1713CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4101-level-up-wingo-airlines-boeing-737-800-hp-1713cmp/
 Royal Air Maroc CN-RNZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4129-levelup-737-800ng-v2-royal-air-maroc-cn-rnz-8k/
+Copa Airlines HP-1850CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4130-80ngv2-copa-airlines-hp-1850cmp-8k/
+Wingo HP-1713CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4131-wingo-airlines-boeing-737-800-v2-hp-1713cmp-8k/
