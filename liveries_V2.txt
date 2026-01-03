@@ -47,3 +47,9 @@ BBJ N737LE | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98076
 China Eastern B-207X | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98067-china-eastern-airlines-levelup-b737-800ng-b-207x/
 Aloha N751AL | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98075-aloha-airlines-737-700-n751al/
 KLM PH-BXI | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4134-levelup-v2-737-800-klm-ph-bxi-8k/
+Alaska N768AS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4139-alaska-airlines-n768as-737-490qc-combi-levelupv2-737-800/
+KLM PH-BGH | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4137-levelup-v2-737-700-klm-ph-bgh-8k/
+American Airlines AirCal Heritage | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4138-american-airlines-aircal-heritage-in-8k-for-v2/
+KLM PH-BXT | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4136-levelup-v2-737-900-klm-ph-bxt-8k/
+Royal Air Maroc CN-RNZ | 737-800 | X-plane.to | https://x-plane.to/file/2022/royal-air-maroc-cn-rnz-levelup-b737-800v2
+Copa Airlines HP-1850CMP | 737-800 | X-plane.to | https://x-plane.to/file/2025/80ngv2-copa-airlines-hp-1850cmp-8k
