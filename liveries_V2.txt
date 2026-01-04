@@ -56,3 +56,6 @@ Copa Airlines HP-1850CMP | 737-800 | X-plane.to | https://x-plane.to/file/2025/8
 airseven OY-ASG | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/97449-levelup-737-80ng-airseven-copenhagen-oy-asg/
 Transavia | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98107-level-up-v2-transavia-france-netherlands-with-cabin/
 Air North Yukon C-FNYA | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/97466-levelup-air-north-yukon-c-fnya-737-80ng-v1-v2/
+ANA Business Jet JA10AN | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3989-levelup-737-700-ana-business-jet-livery-ja10an/
+Jet2 G-DRTZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4145-jet2-g-drtz-in-8k-for-v2/
+Air Europa EC-MPS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4144-air-europa-737-800-ec-mps/
