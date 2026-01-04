@@ -54,3 +54,4 @@ KLM PH-BXT | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4136-
 Royal Air Maroc CN-RNZ | 737-800 | X-plane.to | https://x-plane.to/file/2022/royal-air-maroc-cn-rnz-levelup-b737-800v2
 Copa Airlines HP-1850CMP | 737-800 | X-plane.to | https://x-plane.to/file/2025/80ngv2-copa-airlines-hp-1850cmp-8k
 airseven OY-ASG | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/97449-levelup-737-80ng-airseven-copenhagen-oy-asg/
+Transavia | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98107-level-up-v2-transavia-france-netherlands-with-cabin/
