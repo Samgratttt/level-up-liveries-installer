@@ -97,7 +97,7 @@ South African Express
 PT Freeport Indonesia
 America West Airlines
 Royal Air Maroc Cargo
-Spring Airlines Japan
+Spring Japan
 Global Jet Luxembourg
 Royal Thai Air Force
 Orient Thai Airlines
@@ -650,3 +650,5 @@ Jettime
 PMDG
 Regional Express
 Singapore Airlines
+Hainan Airlines
+Air Jamaica
