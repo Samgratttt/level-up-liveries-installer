@@ -59,3 +59,6 @@ Air North Yukon C-FNYA | 737-800 | X-plane.org | https://forums.x-plane.org/file
 ANA Business Jet JA10AN | 737-700 | Threshold | https://forum.thresholdx.net/files/file/3989-levelup-737-700-ana-business-jet-livery-ja10an/
 Jet2 G-DRTZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4145-jet2-g-drtz-in-8k-for-v2/
 Air Europa EC-MPS | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4144-air-europa-737-800-ec-mps/
+Spring Japan JA06GR | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4149-levelup-737v2-spring-japan-livery/
+AirExplore Fleet OM-KEX, IEX, OEX, MEX | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4141-airexplore-b738-level-up-v2-fleet-om-kex-iex-oex-mex/
+Air Jamaica 9Y-JMC | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4147-levelup-v2-737-800-air-jamaica-9y-jmc-8k/
