@@ -61,3 +61,5 @@ Air Jamaica 9Y-JMC | 737-800 | Threshold | https://forum.thresholdx.net/files/fi
 SAS Fleetpack 600NG | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4125-b737-600-700-800-sas-fleetpack/
 SAS Fleetpack 700NG | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4125-b737-600-700-800-sas-fleetpack/
 SAS Fleetpack 800NG | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4125-b737-600-700-800-sas-fleetpack/
+Canadian North C-FHNF | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4153-canadian-north-b737-700-c-fhnf/
+Corporate | 737-600 | X-plane.org | https://forums.x-plane.org/files/file/98098-corporate-level-up-v2-b737-600ng/
