@@ -63,3 +63,4 @@ SAS Fleetpack 700NG | 737-700 | Threshold | https://forum.thresholdx.net/files/f
 SAS Fleetpack 800NG | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4125-b737-600-700-800-sas-fleetpack/
 Canadian North C-FHNF | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4153-canadian-north-b737-700-c-fhnf/
 Corporate | 737-600 | X-plane.org | https://forums.x-plane.org/files/file/98098-corporate-level-up-v2-b737-600ng/
+Utair VQ-BQP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4161-%E2%97%9F-800ng%E2%97%9E-utair-aviation-vq-bqp-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D0%BD-%D1%81%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2-levelup-v2/
