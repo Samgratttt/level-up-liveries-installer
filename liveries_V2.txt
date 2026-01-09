@@ -65,3 +65,4 @@ Canadian North C-FHNF | 737-700 | Threshold | https://forum.thresholdx.net/files
 Corporate | 737-600 | X-plane.org | https://forums.x-plane.org/files/file/98098-corporate-level-up-v2-b737-600ng/
 Utair VQ-BQP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4161-%E2%97%9F-800ng%E2%97%9E-utair-aviation-vq-bqp-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D0%BD-%D1%81%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2-levelup-v2/
 BBJ N1TS | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98157-n1ts-boeing-bbj-levelup-b737ng-v2/
+Ryanair | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98176-4k-levelup-v2-ryanair-malta-air-buzz-air-with-cabin/
