@@ -224,7 +224,7 @@ Bravo Airways
 Maersk Air UK
 Sama Airlines
 Sudan Airways
-FedEx Express
+FedEx
 Orion Airways
 TUIfly Nordic
 iAero Airways
@@ -652,3 +652,13 @@ Regional Express
 Singapore Airlines
 Hainan Airlines
 Air Jamaica
+EVA Air
+Ethiad
+Greggs Air
+Hungary Airlines
+Kalitta Air
+MSC
+Mahan Air
+Omni Air
+Qatar
+RedWings
