@@ -653,7 +653,7 @@ Singapore Airlines
 Hainan Airlines
 Air Jamaica
 EVA Air
-Ethiad
+Etihad
 Greggs Air
 Hungary Airlines
 Kalitta Air
@@ -663,3 +663,23 @@ Omni Air
 Qatar
 RedWings
 Silkway
+Ethiopian
+IrAero
+Maersk
+One Air
+Pan Am
+Saudia
+Stevens
+TWA
+Thai Airways
+Thai Southern
+UPS
+VOXAIR
+Central Airlines
+Cathay Pacific
+CMA
+Air India
+Aerologic
+Air Austral
+
+
