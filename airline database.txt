@@ -681,5 +681,21 @@ CMA
 Air India
 Aerologic
 Air Austral
+AM Intercontinental
+Aviation Link
+BOAC
+Canadian Airlines
+Crystal Luxury
+Dubai Air wings
+Eastern
+Gridiron Air
+Iron Maiden
+LATAM
+NASA
+Pakistan International
+Privilege Style
+Swiss
+TNT
+Zimbabwe Airways
 
 
