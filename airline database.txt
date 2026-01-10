@@ -686,7 +686,7 @@ Aviation Link
 BOAC
 Canadian Airlines
 Crystal Luxury
-Dubai Air wings
+Dubai Air wing
 Eastern
 Gridiron Air
 Iron Maiden
@@ -697,5 +697,6 @@ Privilege Style
 Swiss
 TNT
 Zimbabwe Airways
+
 
 
