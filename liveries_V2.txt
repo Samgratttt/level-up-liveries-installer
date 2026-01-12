@@ -66,3 +66,7 @@ Corporate | 737-600 | X-plane.org | https://forums.x-plane.org/files/file/98098-
 Utair VQ-BQP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4161-%E2%97%9F-800ng%E2%97%9E-utair-aviation-vq-bqp-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D0%BD-%D1%81%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2-levelup-v2/
 BBJ N1TS | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98157-n1ts-boeing-bbj-levelup-b737ng-v2/
 Ryanair | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98176-4k-levelup-v2-ryanair-malta-air-buzz-air-with-cabin/
+Air China B-5213 | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4168-air-china%EF%BC%88cca-b737-700wl-standard-livery-b-5213-v2/
+WestJet New Livery PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4171-westjet-737-800-new-livery-pack-for-levelup-v2/
+Turkmenistan Airlines EZ-A004 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4167-%E2%97%9F-800ng%E2%97%9E-turkmenistan-airlines-ez-a004-levelup-v2/
+Utair Aviation RA-73088 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4165-%E2%97%9F-800ng%E2%97%9E-utair-aviation-ra-73088-%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D0%BD-%D1%81%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2-levelup-v2/
