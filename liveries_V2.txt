@@ -1,4 +1,4 @@
-Name | Variant | Threshold | URL
+Name | Variant | Threshold | URL | AuthorName
 Janet N288DB | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4096-janet-737-600-n288db/
 WestJet C-GWSB | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4095-westjet-737-600-c-gwsb/
 TAAG Old Livery D2-TBG | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4099-taag-old-livery-d2-tbg-level-up-737-700-8k-for-v2/
