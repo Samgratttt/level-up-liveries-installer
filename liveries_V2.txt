@@ -90,3 +90,6 @@ Prime Air N7901A | 737-800 | Threshold | https://forum.thresholdx.net/files/file
 Copa Airlines ConnectMiles.com HP-1849CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4191-80ngv2-copa-airlines-connectmilescom-hp-1849cmp-8k/
 GOL PR-GUI | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4200-gol-linhas-a%C3%A9reas-%E2%80%93-boeing-737-800-v2-pr-gui-8k/
 Sun Dor 4X-EKM and 4X-EKR | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4203-levelup-boeing-b737-800-v2-sun-dor-new-pack/
+Fly Dubai A6-FGI | 737-800 | Threshold | https://forums.x-plane.org/files/file/98396-4k-levelup-v2-fly-dubai-with-cabin/
+Transavia 2020 PH-XRD | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4205-transavia-ca-2020-ph-xrd-levelup-737-v2/
+Transavia 2016 PH-XRY | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4204-transavia-ca-2016-ph-xry-levelup-737-v2/
