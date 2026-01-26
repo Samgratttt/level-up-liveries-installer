@@ -4,7 +4,7 @@ Central Charter Airlines Slovakia
 Mauritania Airlines International
 Presidential Airways (scheduled)
 Pan American Airways (1996-1998)
-Sun d'Or International Airlines
+Sun Dor International Airlines
 Ukraine International Airlines
 Sunworld International Airways
 Frontier Airlines (1950–1986)
@@ -706,6 +706,7 @@ EuroAtlantic
 TitanAir
 Bahamas Air
 MASS
+
 
 
 
