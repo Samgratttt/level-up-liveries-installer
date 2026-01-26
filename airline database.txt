@@ -406,7 +406,7 @@ Nort Jet
 Cargoair
 Air West
 Aeroflot
-flydubai
+fly dubai
 Jet2.com
 Astraeus
 Oman Air
@@ -706,6 +706,7 @@ EuroAtlantic
 TitanAir
 Bahamas Air
 MASS
+
 
 
 
