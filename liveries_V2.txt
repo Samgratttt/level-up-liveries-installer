@@ -97,3 +97,5 @@ TNT Airways OO-TNH | 737-700 | Threshold | https://forum.thresholdx.net/files/fi
 Sunwing C-GOWG | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4208-sunwing-737-800-c-gowg-for-levelup-v2-8k/
 Solaseed Air JA804X | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4207-levelup-boeing-b737-800-v2-solaseed-air-ja804x/
 Varig PR-SAF | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98417-varig-b737-700-pr-saf-rio-sul-for-levelup-737-v2/
+Malév fleet | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4215-mal%C3%A9v-737-600-fleet-liveries/
+Malév fleet | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4216-mal%C3%A9v-737-700-fleet-liveries/
