@@ -100,3 +100,11 @@ Varig PR-SAF | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/984
 Malév fleet | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4215-mal%C3%A9v-737-600-fleet-liveries/
 Malév fleet | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4216-mal%C3%A9v-737-700-fleet-liveries/
 Tigerair Australia Fleet Pack | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4217-tigerair-australia-b737-800-fleet-pack/
+Southwest Colorado One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4233-southwest-airlines-colorado-one-737-800/
+Southwest Triple Crown One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4232-southwest-airlines-triple-crown-one-737-800/
+Southwest Lone Star One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4231-southwest-airlines-lone-star-one-737-800/
+Southwest California One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4230-southwest-airlines-california-one-737-800/
+Southwest Tennessee One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4228-southwest-airlines-tennessee-one-737-800/
+Shandong Airlines B-1227 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4226-%E3%80%90alextex%E3%80%91%E3%80%90levelup-737ng-v2%E3%80%91shandong-airlines-b-1227-%E5%B1%B1%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8-%E6%A0%87%E5%87%86%E6%B6%82%E8%A3%85-8k/
+Malaysia Airlines Retro PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4225-malaysia-airlines-retro-pack/
+Lion Air Dreamliner Fleet Pack | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4224-lion-air-dreamliner-fleet-pack-for-levelup-737-900er-v2/
