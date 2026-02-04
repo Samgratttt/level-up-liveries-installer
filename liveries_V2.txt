@@ -109,3 +109,7 @@ Shandong Airlines B-1227 | 737-800 | Threshold | https://forum.thresholdx.net/fi
 Malaysia Airlines Retro PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4225-malaysia-airlines-retro-pack/
 Lion Air Dreamliner Fleet Pack | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4224-lion-air-dreamliner-fleet-pack-for-levelup-737-900er-v2/
 Southwest Nevada One | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4227-southwest-airlines-nevada-one-737-800/
+SmartWings OK-TSM | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98525-smartwings%C2%A0ok-tsm-levelup-v2-737-9eng/
+Travel Service OK-TSI | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98524-levelup-737-900er-v2-8k-travel-service-ok-tsi/
+Royal Air Maroc CN-RGH | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98518-8k-levelup-v2-royal-air-maroc-with-cabin/
+Skymark JA73NY | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98510-levelup-737-800-skymark-airlines-livery/
