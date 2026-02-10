@@ -113,3 +113,7 @@ SmartWings OK-TSM | 737-900 | X-plane.org | https://forums.x-plane.org/files/fil
 Travel Service OK-TSI | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98524-levelup-737-900er-v2-8k-travel-service-ok-tsi/
 Royal Air Maroc CN-RGH | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98518-8k-levelup-v2-royal-air-maroc-with-cabin/
 Skymark JA73NY | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98510-levelup-737-800-skymark-airlines-livery/
+SpiceJet VT-SGW | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4244-levelup-737-900er-v2-8k-spicejet-vt-sgw/
+Luxair LX-LBB | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98605-levelup-737ng-luxair-737-86j-wl-lx-lbb-new-livery-8k/
+Korean Air HL8248 | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98565-level-up-737-korean-air-new-ci-hl8248/
+USAF C-40B Clipper | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98593-70ngv2-usaf-c-40b-clipper/
