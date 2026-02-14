@@ -119,3 +119,8 @@ Korean Air HL8248 | 737-800 | X-plane.org | https://forums.x-plane.org/files/fil
 USAF C-40B Clipper | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98593-70ngv2-usaf-c-40b-clipper/
 Eastar Jet HL8700 | 737-800 | Threshold | https://forums.x-plane.org/files/file/98618-level-up-b737-v2-eastar-jet-hl8700/
 BAE Systems G-SHRS| 737-800 | Threshold | https://forums.x-plane.org/files/file/98581-levelup-b737-800-v2-g-shrs-bae-systems/
+SpiceJet VT-SLC | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4249-levelup-737-900er-v2-8k-spicejet-vt-slc/
+LOT SP-LKF | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4245-pll-lot-polish-ailrines-sp-lkf-boeing-737-55d-levelupv2-737-600/
+KLM Old Livery | 737-800 | Threshold | https://forums.x-plane.org/files/file/98642-klm-level-up-737-800-old-livery/
+British Airways | 737-800 | Threshold | https://forums.x-plane.org/files/file/98648-british-airways-level-up-737-800/
+Red Sea Airlines SU-RSB/RSC | 737-800 | Threshold | https://forums.x-plane.org/files/file/98533-red-sea-airlines-su-rsbrsc-levelup-v2-737-8q8/
