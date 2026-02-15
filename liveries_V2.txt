@@ -124,3 +124,6 @@ LOT SP-LKF | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4245-
 KLM Old Livery | 737-800 | Threshold | https://forums.x-plane.org/files/file/98642-klm-level-up-737-800-old-livery/
 British Airways | 737-800 | Threshold | https://forums.x-plane.org/files/file/98648-british-airways-level-up-737-800/
 Red Sea Airlines SU-RSB/RSC | 737-800 | Threshold | https://forums.x-plane.org/files/file/98533-red-sea-airlines-su-rsbrsc-levelup-v2-737-8q8/
+Sunwing PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4208-sunwing-737-800-pre-post-westjet-merger-pack-for-levelup-v2-8k/
+TUI RIU Hotels & Resorts D-ATUZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4251-levelup-v2-tui-riu-hotels-resorts-d-atuz-8k-100/
+BBJ Las Vegas Sands Fleet | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98680-70ngv2-las-vegas-sands-737-bbj-fleet/
