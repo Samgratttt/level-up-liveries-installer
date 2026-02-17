@@ -127,3 +127,9 @@ Red Sea Airlines SU-RSB/RSC | 737-800 | Threshold | https://forums.x-plane.org/f
 Sunwing PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4208-sunwing-737-800-pre-post-westjet-merger-pack-for-levelup-v2-8k/
 TUI RIU Hotels & Resorts D-ATUZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4251-levelup-v2-tui-riu-hotels-resorts-d-atuz-8k-100/
 BBJ Las Vegas Sands Fleet | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98680-70ngv2-las-vegas-sands-737-bbj-fleet/
+InGen Cargo | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4256-ingen-cargo-boeing-737-700bdsf-levelupv2-737-700/
+Chrono Aviation C-GCUA | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98717-levelup-737-800-v2-8k-chrono-aviation-c-gcua/
+SpiceJet VT-SLA | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98701-levelup-737-700-v2-8k-spicejet-vt-sla/
+SpiceJet VT-SYZ | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98710-levelup-737-800-v2-8k-spicejet-vt-syz/
+American Airlines Bare Metal | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98705-american-airlines-level-up-737-800-bare-metal/?tab=comments
+Condor Retro and 2020 | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98703-condor-737-retro-and-2020-livery-level-up-800/
