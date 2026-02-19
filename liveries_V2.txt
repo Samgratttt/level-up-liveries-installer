@@ -133,3 +133,11 @@ SpiceJet VT-SLA | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/
 SpiceJet VT-SYZ | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98710-levelup-737-800-v2-8k-spicejet-vt-syz/
 American Airlines Bare Metal | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98705-american-airlines-level-up-737-800-bare-metal/?tab=comments
 Condor Retro and 2020 | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98703-condor-737-retro-and-2020-livery-level-up-800/
+American Airlines Mica | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98750-american-airlines-level-up-737-800-mica/
+Liat Air | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98742-levelup-738ng-v2-liat-air-fictional-aircraft-caribbean-companey/
+KLM Skyteam | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98746-klm-skyteam-livery-level-up-737-800/
+WestJet FLEET | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4259-westjet-737-600-fleet-for-levelup-v2-8k/
+WestJet MEGAPACK | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4260-westjet-737-700-megapack-for-levelup-v2-8k/
+Swoop Standalone ULCC + WestJet re-integration FLEET | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4254-swoop-737-800-standalone-ulcc-westjet-re-integration-fleet-for-levelup-v2-8k/
+Air Canada C-GMEX Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4257-air-canada-737-800-c-gmex-fictional-for-levelup-v2-8k/
+SpiceJet VT-SGV | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4258-levelup-737-800-v2-8k-spicejet-vt-sgv/
