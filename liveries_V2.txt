@@ -141,3 +141,5 @@ WestJet MEGAPACK | 737-700 | Threshold | https://forum.thresholdx.net/files/file
 Swoop Standalone ULCC + WestJet re-integration FLEET | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4254-swoop-737-800-standalone-ulcc-westjet-re-integration-fleet-for-levelup-v2-8k/
 Air Canada C-GMEX Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4257-air-canada-737-800-c-gmex-fictional-for-levelup-v2-8k/
 SpiceJet VT-SGV | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4258-levelup-737-800-v2-8k-spicejet-vt-sgv/
+Delta Collection | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98731-delta-collection-level-up/
+Name | Variant | Threshold | URL
