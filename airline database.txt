@@ -226,7 +226,6 @@ Sama Airlines
 Sudan Airways
 FedEx
 Orion Airways
-TUIfly Nordic
 iAero Airways
 Kenya Airways
 Sriwijaya Air
@@ -510,7 +509,6 @@ Porter Airlines
 Lynx Air
 Condor
 Eurowings
-TUI
 easyJet
 Wizz Air
 Volotea
@@ -710,6 +708,7 @@ Sun Dor
 Red Sea
 BAE Systems
 Tigerair
+
 
 
 
