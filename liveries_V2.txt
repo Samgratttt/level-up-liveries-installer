@@ -125,7 +125,7 @@ KLM Old Livery | 737-800 | Threshold | https://forums.x-plane.org/files/file/986
 British Airways | 737-800 | Threshold | https://forums.x-plane.org/files/file/98648-british-airways-level-up-737-800/
 Red Sea Airlines SU-RSB/RSC | 737-800 | Threshold | https://forums.x-plane.org/files/file/98533-red-sea-airlines-su-rsbrsc-levelup-v2-737-8q8/
 Sunwing PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4208-sunwing-737-800-pre-post-westjet-merger-pack-for-levelup-v2-8k/
-TUI RIU Hotels & Resorts D-ATUZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4251-levelup-v2-tui-riu-hotels-resorts-d-atuz-8k-100/
+Tuifly RIU Hotels & Resorts D-ATUZ | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4251-levelup-v2-tui-riu-hotels-resorts-d-atuz-8k-100/
 BBJ Las Vegas Sands Fleet | 737-700 | X-plane.org | https://forums.x-plane.org/files/file/98680-70ngv2-las-vegas-sands-737-bbj-fleet/
 InGen Cargo | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4256-ingen-cargo-boeing-737-700bdsf-levelupv2-737-700/
 Chrono Aviation C-GCUA | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98717-levelup-737-800-v2-8k-chrono-aviation-c-gcua/
@@ -145,4 +145,4 @@ Delta Collection | 737-800 | X-plane.org | https://forums.x-plane.org/files/file
 Tuifly Belgium OO-TUV | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98769-levelup-737-800ng-v2s1-tui-fly-belgium-oo-tuv/
 Korean Air HL8248 | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98768-levelup-737-900er-v2-8k-korean-air-hl8248/
 Lauda Air | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98729-lauda-air-b737-800-level-up/
-
+WestJet PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4262-westjet-737-800-pack-for-levelup-v2-8k/
