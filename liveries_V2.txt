@@ -142,4 +142,7 @@ Swoop Standalone ULCC + WestJet re-integration FLEET | 737-800 | Threshold | htt
 Air Canada C-GMEX Fictional | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4257-air-canada-737-800-c-gmex-fictional-for-levelup-v2-8k/
 SpiceJet VT-SGV | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4258-levelup-737-800-v2-8k-spicejet-vt-sgv/
 Delta Collection | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98731-delta-collection-level-up/
-Name | Variant | Threshold | URL
+Tuifly Belgium OO-TUV | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98769-levelup-737-800ng-v2s1-tui-fly-belgium-oo-tuv/
+Korean Air HL8248 | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98768-levelup-737-900er-v2-8k-korean-air-hl8248/
+Lauda Air | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98729-lauda-air-b737-800-level-up/
+
