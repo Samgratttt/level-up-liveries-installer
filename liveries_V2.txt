@@ -146,3 +146,27 @@ Tuifly Belgium OO-TUV | 737-800 | X-plane.org | https://forums.x-plane.org/files
 Korean Air HL8248 | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98768-levelup-737-900er-v2-8k-korean-air-hl8248/
 Lauda Air | 737-800 | X-plane.org | https://forums.x-plane.org/files/file/98729-lauda-air-b737-800-level-up/
 WestJet PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4262-westjet-737-800-pack-for-levelup-v2-8k/
+Lauda Air OE-LNM | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4277-levelup-737-600ng-v2-8k-lauda-air-oe-lnm/
+Austrian Airlines OE-LNM | 737-600 | Threshold | https://forum.thresholdx.net/files/file/4287-levelup-737-600ng-v2-8k-austrian-airlines-oe-lnm/
+Air Berlin D-AHIA | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4270-levelup-737-700-v2-8k-air-berlin-d-ahia/
+BBJ N737JB | 737-700 | Threshold | https://forum.thresholdx.net/files/file/4273-levelup-737-700-v2-8k-boeing-bussines-jets-n737jb/
+China Eastern PACK | Variant | Threshold | https://forum.thresholdx.net/files/file/4296-china-eastern-b737-700-pack/
+Korean Air HL8240 and HL8241 | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4293-korean-air-%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5-737-8bkwl-for-levelup-v2-8k/
+Eurowings D-ABKM | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4290-levelup-737-800-v2-8k-eurowings-d-abkm/
+Air India Express VT-GHB + VT-GHF + VT-GHI + VT-GHK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4285-levelup-737-800-v2-8k-air-india-express-vt-ghb-vt-ghf-vt-ghi-vt-ghk/
+Singapore Airlines PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4282-singapore-airlines-pack-w-cabin-for-levelup-v2-8k/
+Copa Airlines  Star Alliance HP-1853CMP | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4280-80ngv2-copa-airlines-star-alliance-hp-1853cmp-8k/
+Scat Airlines Full fleet | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4279-levelup-737-v2-scat-airlines-full-fleet/
+Air North | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4272-air-north-737-8alwl-w-cabin-for-levelup-v2-8k/
+Jeju Air PACK | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4269-jeju-air-%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5-pack-for-levelup-v2-8k/
+Aeroitalia 9H-GEF | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4266-levelup-737-800-v2-8k-aeroitalia-9h-gef/
+SAS Star Alliance LN-RRL | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4306-80ngv2-scandinavian-airlines-star-alliance-ln-rrl-8k/
+Myanmar National Airlines XY-ALB | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4305-80ngv2-myanmar-national-airlines-xy-alb/
+Virgin Australia 150th Special Livery VH-8VI | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4303-80ngv2-virgin-australia-150th-special-livery-fictional-vh-8vi/
+Luxair LX-LBB | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4301-levelup-737-800-v2-8k-luxair-lx-lbb/
+Luxair LX-LGU | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4300-levelup-737-800-v2-8k-luxair-lx-lgu/
+WestJet Cargo | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4297-westjet-cargo-for-levelup-v2-8k/
+Blue Panorama FULL FLEET | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4295-levelup-737-800-v2-8k-blue-panorama-full-fleet/
+Air Berlin D-ABKM | 737-800 | Threshold | https://forum.thresholdx.net/files/file/4294-levelup-737-800-v2-8k-air-berlin-d-abkm/
+Korean Air HL8248 | 737-900 | Threshold | https://forum.thresholdx.net/files/file/4261-levelup-737-900er-v2-8k-korean-air-hl8248/
+Delta N814DN | 737-900 | X-plane.org | https://forums.x-plane.org/files/file/98945-delta-air-lines-737-932er-n814dn-for-levelup-v2/
